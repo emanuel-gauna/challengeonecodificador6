@@ -8,22 +8,31 @@
 </head>
 <body>
     <header>
-        <section>
             <img src="images/logo.png" alt="logo">
             <h1>Encriptador de texto</h1>
-            <form action="">
-                <label for="texto"></label><br>
-                <input type="text" id="texto" value="Ingrese el texto aqui">
-            </form>
-        </section>
-    </header>
-    <main>
+        </header>
 
+        <main>
+        <form action="">
+            <div class="texto">
+                <label for="texto"></label><br>
+                <input type="text" id="texto" value="Ingrese el texto aqui" required>
+            </div>
+            <div class="botones" >
+                <input class="boton" type="button"  value="cifrar">
+                <input class="boton" type="button"  value="descifrar">
+            </div>
+            <div class="respuesta">
+                <textarea name="" id="" cols="30" rows="10" ></textarea>
+            </form>
+             </div>
+   
     </main>
     <footer>
-
+        <p class="nombreUsuario">Emanuel Gauna 2024</p>
+        <img class="img-footer" src="images/logo.png" alt="logo">
     </footer>
     
-    <script src="index.js"></script>
+    <script src="scripts.js"></script>
 </body>
 </html>

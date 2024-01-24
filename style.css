@@ -1,16 +1,75 @@
 /* media query Mobile first */
 /* dispositivos moviles */
-body {
-    background-color: #92BF8E;
+/* General */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    /* font-family:  sans-serif - teko; */
 }
+
+li{
+    list-style: none;
+}
+/* p{
+    font-family: "roboto";
+} */
+
+/* #1C1427 , #40394A , #7ECA9C , #CCFFBD , #F3EFE0  */
+:root {
+    /*bordes*/
+    --bordes: 32px;
+
+    /* Tipografia */
+    --fuente-titulos: "Roboto", sans-serif;
+    --fuente-parrafos: "Teko";
+    /* Colores */
+
+
+    /* fondos */
+    --boton-azul: darkblue;
+    --boton-blanco: white;
+    --fondo-mobile: #92BF8E;
+    --fondo-tablet: linear-gradient(blueviolet , rgb(172, 150, 193));
+    --fondo-desktop: linear-gradient(#48b43f, #CCFFBD)  ;
+    
+    /* Tamaño tipografico */
+    --titulos: 6vw;
+    --subtitulo: 5vw;
+    --parrafos: 4vw;
+    --span: 3vw;
+}
+body {
+    background:var(--fondo-desktop);
+}
+header img{
+    display: inline;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: center;
+    width: 100%;
+    height: fit-content;
+    text-align: center;
+
+}
+
 p{
     color: #020D1A;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
 }
 
 /* tablet */
 @media (min-width: 430px){
     body {
-        background-color: blueviolet;
+        background:var(--fondo-tablet) ;
     }
     p{
         color: white;
@@ -19,7 +78,7 @@ p{
 /* laptop o escritorio */
 @media (min-width: 768px){
     body {
-        background-color: #92BF8E;
+        background: var(--fondo-desktop);
     }
 }
 
