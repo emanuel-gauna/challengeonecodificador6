@@ -1,6 +1,27 @@
-body{
+/* media query Mobile first */
+/* dispositivos moviles */
+body {
     background-color: #92BF8E;
 }
 p{
     color: #020D1A;
 }
+
+/* tablet */
+@media (min-width: 430px){
+    body {
+        background-color: blueviolet;
+    }
+    p{
+        color: white;
+    }
+}
+/* laptop o escritorio */
+@media (min-width: 768px){
+    body {
+        background-color: #92BF8E;
+    }
+}
+
+
+
