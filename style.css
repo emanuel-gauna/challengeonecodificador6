@@ -34,10 +34,10 @@ li{
     --fondo-desktop: linear-gradient(#48b43f, #CCFFBD)  ;
     
     /* Tamaño tipografico */
-    --titulo: 6.3vw;
-    --subtitulo: 6vw;
-    --parrafo: 5vw;
-    --span: 4vw;
+    --titulo: 2rem;
+    --subtitulo: 1.5rem;
+    --parrafo: 1.2rem;
+    --span: 1rem;
 }
 body {
     background:var(--fondo-desktop);
@@ -48,12 +48,19 @@ header img{
 header{
     display: flex;
     flex-direction: row;
-    justify-content:space-around;
+    justify-content:space-between;
     align-items: center;
     width: 100%;
     height: fit-content;
     text-align: center;
 
+}
+header img{
+    width: auto;
+}
+header h1{
+    text-align: center;
+    flex-grow: 1;
 }
 
 p{
@@ -68,10 +75,10 @@ main{
 div.texto input{
     width: 100%;
     height: 300px;
-    font-size:10vw ;
+    font-size:var(--titulo) ;
     text-align:start;
-    margin: 1rem auto;
-    padding: 1rem ;
+    margin: 10px auto;
+    padding: 10px ;
     border: none;
     background: var(--fondo-desktop);
 }
@@ -97,8 +104,21 @@ div.botones .boton{
     height: 70px ;
     margin: 10px;
     font-size: var(--subtitulo);
+    transition: all 1s ease;
+    box-shadow: 5px 5px black;
     
 }
+div.botones .boton:hover{
+    cursor: pointer;
+    box-shadow: none;
+    transform: scale(1.3);
+}
+img.muñeco{
+    display: none;
+}
+
+
+
 div.respuesta{
     display:flex;
     flex-direction:column;
@@ -117,7 +137,7 @@ div.respuesta textarea{
     padding: 0 ;
     margin: 0 ;
     height: 900px;
-    font-size: var(--parrafo);
+    font-size: var(--subtitulo);
     text-align: center;
     align-content: center;
 }
@@ -161,9 +181,7 @@ footer p{
     div.respuesta{
         height: 250px;
     }
-    div.respuesta textarea{
-
-    }
+    
     footer{
         height: 60px;
     }
@@ -173,8 +191,66 @@ footer p{
     body {
         background: var(--fondo-desktop);
     }
+    main form{
+        margin: 10px;
+        width: 100%;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: start; 
+        align-items: stretch;
+        gap: 15px;
+    }
+
+    div.left{
+        margin: 0;
+        padding: 0;
+        width: 55%;
+        height: 75vh;
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: start;
+        align-items: center;
+    }
+    div.texto{
+        width: 100%;
+        height: 800px;
+        flex-grow: 1;
+    }
     div.texto input{
+        padding: 10px;
         background: var(--fondo-desktop);
+        width: 100%;
+        height: 60vh;
+       
+
+    }
+    img.muñeco{
+        display: block;
+        background-color: white;
+    }
+    
+    div.respuesta{
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: start;
+        width: 40%;
+        height: 85vh;
+    }
+    div.respuesta textarea{
+       font-size: var(--subtitulo);
+    }
+    div.botones{
+        order: 1;
+        font-size: var(--subtitulo);
+
+    }
+    div.botones input.boton{
+        padding: 10px;
+        width: 200px;
+        font-size: 24px;
+    }
+    footer p{
+        color: #000000;
     }
 }
 
