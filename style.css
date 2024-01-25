@@ -30,13 +30,13 @@ li{
     --boton-azul: #0A3871;
     --boton-blanco: white;
     --fondo-mobile: #92BF8E;
-    --fondo-tablet: linear-gradient(blueviolet , rgb(172, 150, 193));
+    --fondo-tablet: linear-gradient(rgb(100, 58, 140) , rgb(172, 150, 193));
     --fondo-desktop: linear-gradient(#48b43f, #CCFFBD)  ;
     
     /* Tamaño tipografico */
     --titulo: 6.3vw;
     --subtitulo: 6vw;
-    --parrafos: 5vw;
+    --parrafo: 5vw;
     --span: 4vw;
 }
 body {
@@ -105,25 +105,37 @@ div.respuesta{
     justify-content:center;
     align-items:stretch;
     width: 100%;
-    height: 200px;
+    height: 300px;
     padding: 10px;
 }
 div.respuesta textarea{
     border-radius: var(--bordes);
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: stretch;
+    padding: 0 ;
+    margin: 0 ;
+    height: 900px;
+    font-size: var(--parrafo);
+    text-align: center;
+    align-content: center;
 }
 footer{
     display: flex;
-    flex-direction: row;
+    flex-direction:row;
     justify-content: space-between;
     align-items: flex-end;
     margin: 0;
     padding: 0;
     width: 100%;
     font-size: var(--parrafo);
+   
 }
 footer img.img-footer{
     width: 20px;
     height: 30px;
+    
   
 }
 footer p{
@@ -140,10 +152,28 @@ footer p{
     p{
         color: white;
     }
+    div.botones{
+        flex-direction: row;
+    }
+    div.texto input{
+        background: var(--fondo-tablet);
+    }
+    div.respuesta{
+        height: 250px;
+    }
+    div.respuesta textarea{
+
+    }
+    footer{
+        height: 60px;
+    }
 }
 /* laptop o escritorio */
 @media (min-width: 768px){
     body {
+        background: var(--fondo-desktop);
+    }
+    div.texto input{
         background: var(--fondo-desktop);
     }
 }
