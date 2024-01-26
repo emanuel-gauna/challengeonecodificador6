@@ -113,12 +113,12 @@ div.botones .boton:hover{
     box-shadow: none;
     transform: scale(1.3);
 }
+div.botones .boton:active{
+    background-color: aqua;
+}
 img.muñeco{
     display: none;
 }
-
-
-
 div.respuesta{
     display:flex;
     flex-direction:column;
@@ -224,20 +224,26 @@ footer p{
        
 
     }
-    img.muñeco{
+    div.respuesta img.muñeco{
         display: block;
         background-color: white;
+        height: 50%;
+        
     }
     
     div.respuesta{
         display: flex;
         flex-flow: column nowrap;
         justify-content: start;
+        border-radius: var(--bordes);
+        background: white;
         width: 40%;
-        height: 85vh;
+        height: 80vh;
     }
     div.respuesta textarea{
        font-size: var(--subtitulo);
+       height: 50%;
+       border: none;
     }
     div.botones{
         order: 1;
@@ -251,6 +257,8 @@ footer p{
     }
     footer p{
         color: #000000;
+        margin: 0;
+        padding: 0;
     }
 }
 
