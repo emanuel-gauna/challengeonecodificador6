@@ -19,16 +19,21 @@
             
             <div class="texto">
                 <label for="texto"></label><br>
-                <input type="text" id="texto" value="Ingrese el texto aqui" required>
+                <input  id="texto" type="text" oninput="this.value = this.value.replace(/[A-ZÁÉÍÓÚÜÑ]/g, '').replace(/[^\w\s]/gi, '')") placeholder="ingrese el texto aqui" required>
             </div>
             <div class="botones" >
-                <input class="boton" type="button"  value="Encriptar">
-                <input class="boton" type="button"  value="Desencriptar">
+                <input id="encriptar" onclick="btnEncriptar()" class="boton" type="button"  value="Encriptar">
+                <input id="desencriptar" class="boton" type="button"  value="Desencriptar">
             </div>
         </div>
             <div class="respuesta">
                 <img class="muñeco" src="images/Muñeco.svg" alt="muñeco">
-                <textarea name="" id="" cols="30" rows="10" >Ningún mensaje fue encontrado Ingresa el texto que quieras encriptar o desencriptar</textarea>
+                <h2 class="textarea" id="resultado">Ningun mensaje fue encontrado</h2>
+                <p class="resultado">ingresa el texto que deseas encriptar o desencriptar</p>
+                <div class="botones">
+                    <input type="button" onclick="copiar()"class="boton" value="Copiar"></input>
+                </div>
+                </div>  
             </form>
              </div>
    

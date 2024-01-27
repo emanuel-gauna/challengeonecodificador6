@@ -127,9 +127,10 @@ div.respuesta{
     width: 100%;
     height: 300px;
     padding: 10px;
-}
-div.respuesta textarea{
+    background-color: white;
     border-radius: var(--bordes);
+}
+div.respuesta h2.textarea{
     display: flex;
     flex-direction: column;
     justify-content:center;
@@ -140,6 +141,11 @@ div.respuesta textarea{
     font-size: var(--subtitulo);
     text-align: center;
     align-content: center;
+    
+    
+}
+.resultado{
+    color: black;
 }
 footer{
     display: flex;
@@ -240,10 +246,12 @@ footer p{
         width: 40%;
         height: 80vh;
     }
-    div.respuesta textarea{
+    div.respuesta h2.textarea{
        font-size: var(--subtitulo);
-       height: 50%;
+       height: 10%;
        border: none;
+       align-self: flex-start;
+    
     }
     div.botones{
         order: 1;
