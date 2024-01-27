@@ -15,3 +15,8 @@
 - creacion de las media queries
 - terminando los estilos a la vista mobile
 - estilos a la vista de tablet
+
+## Viernes 26 de Enero
+
+- terminando de darle los estilos de la vista para escritorio
+- empezando a hacer los eventos de cifrado y descifrado
