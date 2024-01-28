@@ -1,0 +1,6370 @@
+{
+    "id": "65b065a9042c118cda5e0fd9",
+    "nodeId": "ari:cloud:trello::board/workspace/65a86696465758164e598d08/65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "desc": "Alura Challenges - Semana 1!",
+    "descData": null,
+    "closed": false,
+    "dateClosed": null,
+    "idOrganization": "65a86696465758164e598d08",
+    "idEnterprise": null,
+    "limits": {
+    "attachments": {
+    "perBoard": {
+    "status": "ok",
+    "disableAt": 36000,
+    "warnAt": 28800
+    },
+    "perCard": {
+    "status": "ok",
+    "disableAt": 1000,
+    "warnAt": 800
+    }
+    },
+    "boards": {
+    "totalMembersPerBoard": {
+    "status": "ok",
+    "disableAt": 1600,
+    "warnAt": 1280
+    },
+    "totalAccessRequestsPerBoard": {
+    "status": "ok",
+    "disableAt": 4000,
+    "warnAt": 3200
+    }
+    },
+    "cards": {
+    "openPerBoard": {
+    "status": "ok",
+    "disableAt": 5000,
+    "warnAt": 4000
+    },
+    "openPerList": {
+    "status": "ok",
+    "disableAt": 5000,
+    "warnAt": 4000
+    },
+    "totalPerBoard": {
+    "status": "ok",
+    "disableAt": 2000000,
+    "warnAt": 1600000
+    },
+    "totalPerList": {
+    "status": "ok",
+    "disableAt": 1000000,
+    "warnAt": 800000
+    }
+    },
+    "checklists": {
+    "perBoard": {
+    "status": "ok",
+    "disableAt": 1800000,
+    "warnAt": 1440000
+    },
+    "perCard": {
+    "status": "ok",
+    "disableAt": 500,
+    "warnAt": 400
+    }
+    },
+    "checkItems": {
+    "perChecklist": {
+    "status": "ok",
+    "disableAt": 200,
+    "warnAt": 160
+    }
+    },
+    "customFields": {
+    "perBoard": {
+    "status": "ok",
+    "disableAt": 50,
+    "warnAt": 40
+    }
+    },
+    "customFieldOptions": {
+    "perField": {
+    "status": "ok",
+    "disableAt": 50,
+    "warnAt": 40
+    }
+    },
+    "labels": {
+    "perBoard": {
+    "status": "ok",
+    "disableAt": 1000,
+    "warnAt": 800
+    }
+    },
+    "lists": {
+    "openPerBoard": {
+    "status": "ok",
+    "disableAt": 500,
+    "warnAt": 400
+    },
+    "totalPerBoard": {
+    "status": "ok",
+    "disableAt": 3000,
+    "warnAt": 2400
+    }
+    },
+    "stickers": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 70,
+    "warnAt": 56
+    }
+    },
+    "reactions": {
+    "perAction": {
+    "status": "ok",
+    "disableAt": 900,
+    "warnAt": 720
+    },
+    "uniquePerAction": {
+    "status": "ok",
+    "disableAt": 17,
+    "warnAt": 14
+    }
+    }
+    },
+    "pinned": false,
+    "starred": false,
+    "url": "https://trello.com/b/T57zJFQ7/encriptador-de-texto-aluraa-challenges-one",
+    "prefs": {
+    "permissionLevel": "org",
+    "hideVotes": false,
+    "voting": "disabled",
+    "comments": "members",
+    "invitations": "members",
+    "selfJoin": true,
+    "cardCovers": true,
+    "cardCounts": false,
+    "isTemplate": false,
+    "cardAging": "regular",
+    "calendarFeedEnabled": false,
+    "hiddenPluginBoardButtons": [],
+    "switcherViews": [
+    {
+    "viewType": "Board",
+    "enabled": true
+    },
+    {
+    "viewType": "Table",
+    "enabled": true
+    },
+    {
+    "viewType": "Calendar",
+    "enabled": false
+    },
+    {
+    "viewType": "Dashboard",
+    "enabled": false
+    },
+    {
+    "viewType": "Timeline",
+    "enabled": false
+    },
+    {
+    "viewType": "Map",
+    "enabled": false
+    }
+    ],
+    "background": "6078822fb47e70167128d526",
+    "backgroundColor": null,
+    "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/original/e0625f6ee8a4eadeea1dd8c821305b1c/photo-1517694712202-14dd9538aa97",
+    "backgroundTile": false,
+    "backgroundBrightness": "dark",
+    "backgroundImageScaled": [
+    {
+    "width": 140,
+    "height": 93,
+    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/140x93/aa088dab55f7fc92a5b7d5962b646fe0/photo-1517694712202-14dd9538aa97.jpg"
+    },
+    {
+    "width": 256,
+    "height": 171,
+    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/256x171/aa088dab55f7fc92a5b7d5962b646fe0/photo-1517694712202-14dd9538aa97.jpg"
+    },
+    {
+    "width": 480,
+    "height": 320,
+    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/480x320/aa088dab55f7fc92a5b7d5962b646fe0/photo-1517694712202-14dd9538aa97.jpg"
+    },
+    {
+    "width": 960,
+    "height": 640,
+    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/960x640/aa088dab55f7fc92a5b7d5962b646fe0/photo-1517694712202-14dd9538aa97.jpg"
+    },
+    {
+    "width": 1024,
+    "height": 683,
+    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1024x683/aa088dab55f7fc92a5b7d5962b646fe0/photo-1517694712202-14dd9538aa97.jpg"
+    },
+    {
+    "width": 1280,
+    "height": 854,
+    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1280x854/aa088dab55f7fc92a5b7d5962b646fe0/photo-1517694712202-14dd9538aa97.jpg"
+    },
+    {
+    "width": 1920,
+    "height": 1280,
+    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1920x1280/aa088dab55f7fc92a5b7d5962b646fe0/photo-1517694712202-14dd9538aa97.jpg"
+    },
+    {
+    "width": 2048,
+    "height": 1366,
+    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2048x1366/aa088dab55f7fc92a5b7d5962b646fe0/photo-1517694712202-14dd9538aa97.jpg"
+    },
+    {
+    "width": 2400,
+    "height": 1600,
+    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2400x1600/aa088dab55f7fc92a5b7d5962b646fe0/photo-1517694712202-14dd9538aa97.jpg"
+    },
+    {
+    "width": 2560,
+    "height": 1707,
+    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/original/e0625f6ee8a4eadeea1dd8c821305b1c/photo-1517694712202-14dd9538aa97"
+    }
+    ],
+    "backgroundBottomColor": "#bdbec1",
+    "backgroundTopColor": "#c9c9cb",
+    "canBePublic": true,
+    "canBeEnterprise": true,
+    "canBeOrg": true,
+    "canBePrivate": true,
+    "canInvite": true
+    },
+    "shortLink": "T57zJFQ7",
+    "subscribed": false,
+    "labelNames": {
+    "green": "",
+    "yellow": "Git/GitHub",
+    "orange": "Modelo Figma",
+    "red": "Entrega de proyecto",
+    "purple": "HTML",
+    "blue": "CSS",
+    "sky": "",
+    "lime": "",
+    "pink": "",
+    "black": "JavaScript",
+    "green_dark": "",
+    "yellow_dark": "",
+    "orange_dark": "",
+    "red_dark": "",
+    "purple_dark": "",
+    "blue_dark": "",
+    "sky_dark": "",
+    "lime_dark": "",
+    "pink_dark": "",
+    "black_dark": "",
+    "green_light": "",
+    "yellow_light": "",
+    "orange_light": "",
+    "red_light": "",
+    "purple_light": "",
+    "blue_light": "",
+    "sky_light": "",
+    "lime_light": "",
+    "pink_light": "",
+    "black_light": ""
+    },
+    "powerUps": [],
+    "dateLastActivity": "2024-01-28T01:00:47.864Z",
+    "dateLastView": "2024-01-28T01:00:47.923Z",
+    "shortUrl": "https://trello.com/b/T57zJFQ7",
+    "idTags": [],
+    "datePluginDisable": null,
+    "creationMethod": null,
+    "ixUpdate": "107",
+    "templateGallery": null,
+    "enterpriseOwned": false,
+    "idBoardSource": "62261881955f08669b7c45c4",
+    "premiumFeatures": [
+    "additionalBoardBackgrounds",
+    "additionalStickers",
+    "customBoardBackgrounds",
+    "customEmoji",
+    "customStickers",
+    "plugins"
+    ],
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "actions": [
+    {
+    "id": "65b5a73ff66c93798343dd12",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "pos": 33279.4921875,
+    "id": "65b065a9042c118cda5e109d",
+    "name": "¡Publica tu página web!",
+    "idShort": 16,
+    "shortLink": "ByTcPOQ7"
+    },
+    "old": {
+    "pos": 393215
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "list": {
+    "id": "65b065a9042c118cda5e0fde",
+    "name": "Concluido"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-28T01:00:47.877Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a73ff66c93798343dd02",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "idList": "65b065a9042c118cda5e0fde",
+    "id": "65b065a9042c118cda5e109d",
+    "name": "¡Publica tu página web!",
+    "idShort": 16,
+    "shortLink": "ByTcPOQ7"
+    },
+    "old": {
+    "idList": "65b065a9042c118cda5e0fda"
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "listBefore": {
+    "id": "65b065a9042c118cda5e0fda",
+    "name": "Herramientas"
+    },
+    "listAfter": {
+    "id": "65b065a9042c118cda5e0fde",
+    "name": "Concluido"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-28T01:00:47.849Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a73525a9b5978889694a",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "pos": 33791.484375,
+    "id": "65b065a9042c118cda5e1084",
+    "name": "Crear el repositorio de tu proyecto en GitHub",
+    "idShort": 2,
+    "shortLink": "ucOiQfs9"
+    },
+    "old": {
+    "pos": 278527
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "list": {
+    "id": "65b065a9042c118cda5e0fde",
+    "name": "Concluido"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-28T01:00:37.359Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a73525a9b59788896939",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "idList": "65b065a9042c118cda5e0fde",
+    "id": "65b065a9042c118cda5e1084",
+    "name": "Crear el repositorio de tu proyecto en GitHub",
+    "idShort": 2,
+    "shortLink": "ucOiQfs9"
+    },
+    "old": {
+    "idList": "65b065a9042c118cda5e0fdb"
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "listBefore": {
+    "id": "65b065a9042c118cda5e0fdb",
+    "name": "Backlog"
+    },
+    "listAfter": {
+    "id": "65b065a9042c118cda5e0fde",
+    "name": "Concluido"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-28T01:00:37.307Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a72dde422120dd312f43",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "pos": 34815.46875,
+    "id": "65b065a9042c118cda5e1075",
+    "name": "Entrega del desafío",
+    "idShort": 5,
+    "shortLink": "SJD3rJy6"
+    },
+    "old": {
+    "pos": 294911
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "list": {
+    "id": "65b065a9042c118cda5e0fde",
+    "name": "Concluido"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-28T01:00:29.321Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a72dde422120dd312f24",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "idList": "65b065a9042c118cda5e0fde",
+    "id": "65b065a9042c118cda5e1075",
+    "name": "Entrega del desafío",
+    "idShort": 5,
+    "shortLink": "SJD3rJy6"
+    },
+    "old": {
+    "idList": "65b065a9042c118cda5e0fdb"
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "listBefore": {
+    "id": "65b065a9042c118cda5e0fdb",
+    "name": "Backlog"
+    },
+    "listAfter": {
+    "id": "65b065a9042c118cda5e0fde",
+    "name": "Concluido"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-28T01:00:29.277Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a727a9326746dc4248df",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "card": {
+    "id": "65b065a9042c118cda5e1075",
+    "name": "Entrega del desafío",
+    "idShort": 5,
+    "shortLink": "SJD3rJy6"
+    },
+    "checklist": {
+    "id": "65b065a9042c118cda5e107d",
+    "name": "**Proceso para la entrega **"
+    },
+    "checkItem": {
+    "id": "65b065aa042c118cda5e131b",
+    "name": "Revisa tu correo electrónico y obtén tu Badge",
+    "state": "complete",
+    "textData": {
+    "emoji": {}
+    }
+    }
+    },
+    "appCreator": null,
+    "type": "updateCheckItemStateOnCard",
+    "date": "2024-01-28T01:00:23.994Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a712697247826ce02ef3",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "card": {
+    "id": "65b065a9042c118cda5e1075",
+    "name": "Entrega del desafío",
+    "idShort": 5,
+    "shortLink": "SJD3rJy6"
+    },
+    "checklist": {
+    "id": "65b065a9042c118cda5e107d",
+    "name": "**Proceso para la entrega **"
+    },
+    "checkItem": {
+    "id": "65b065aa042c118cda5e131c",
+    "name": "Publica un video y/o tu proyecto en Linkedin",
+    "state": "complete",
+    "textData": {
+    "emoji": {}
+    }
+    }
+    },
+    "appCreator": null,
+    "type": "updateCheckItemStateOnCard",
+    "date": "2024-01-28T01:00:02.794Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a6dfc96862a0dade9e98",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "card": {
+    "id": "65b065a9042c118cda5e1075",
+    "name": "Entrega del desafío",
+    "idShort": 5,
+    "shortLink": "SJD3rJy6"
+    },
+    "checklist": {
+    "id": "65b065a9042c118cda5e107d",
+    "name": "**Proceso para la entrega **"
+    },
+    "checkItem": {
+    "id": "65b065aa042c118cda5e131a",
+    "name": "Rellene el formulario de envío https://lp.alura.com.br/alura-latam-entrega-challenge-one-esp con el enlace de GitHub Pages (proyecto publicado)",
+    "state": "complete",
+    "textData": {
+    "emoji": {}
+    }
+    }
+    },
+    "appCreator": null,
+    "type": "updateCheckItemStateOnCard",
+    "date": "2024-01-28T00:59:11.853Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a6a558b23a6fb49d8c09",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "card": {
+    "id": "65b065a9042c118cda5e1075",
+    "name": "Entrega del desafío",
+    "idShort": 5,
+    "shortLink": "SJD3rJy6"
+    },
+    "checklist": {
+    "id": "65b065a9042c118cda5e107d",
+    "name": "**Proceso para la entrega **"
+    },
+    "checkItem": {
+    "id": "65b065aa042c118cda5e1319",
+    "name": "Agregar el #challengeonecodificador4 si eres de la Turma 4 de ONE o agregar el #challengeonecodificador5 si eres de la Turma 5 :)",
+    "state": "complete",
+    "textData": {
+    "emoji": {}
+    }
+    }
+    },
+    "appCreator": null,
+    "type": "updateCheckItemStateOnCard",
+    "date": "2024-01-28T00:58:13.267Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a69e63881e78226bb94d",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "card": {
+    "id": "65b065a9042c118cda5e1075",
+    "name": "Entrega del desafío",
+    "idShort": 5,
+    "shortLink": "SJD3rJy6"
+    },
+    "checklist": {
+    "id": "65b065a9042c118cda5e107d",
+    "name": "**Proceso para la entrega **"
+    },
+    "checkItem": {
+    "id": "65b065aa042c118cda5e1318",
+    "name": "Publica en GitHub Pages",
+    "state": "complete",
+    "textData": {
+    "emoji": {}
+    }
+    }
+    },
+    "appCreator": null,
+    "type": "updateCheckItemStateOnCard",
+    "date": "2024-01-28T00:58:06.208Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a5ebec30a31a1301ce6b",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "card": {
+    "id": "65b065a9042c118cda5e1075",
+    "name": "Entrega del desafío",
+    "idShort": 5,
+    "shortLink": "SJD3rJy6"
+    },
+    "checklist": {
+    "id": "65b065a9042c118cda5e107d",
+    "name": "**Proceso para la entrega **"
+    },
+    "checkItem": {
+    "id": "65b065aa042c118cda5e1317",
+    "name": "Sube el proyecto a GitHub",
+    "state": "complete",
+    "textData": {
+    "emoji": {}
+    }
+    }
+    },
+    "appCreator": null,
+    "type": "updateCheckItemStateOnCard",
+    "date": "2024-01-28T00:55:07.100Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a39258b23a6fb49a6df3",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "pos": 36863.4375,
+    "id": "65b065a9042c118cda5e10a0",
+    "name": "Mensaje secreto!",
+    "idShort": 18,
+    "shortLink": "xasJhZ3d"
+    },
+    "old": {
+    "pos": 425983
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "list": {
+    "id": "65b065a9042c118cda5e0fde",
+    "name": "Concluido"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-28T00:45:06.962Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a39258b23a6fb49a6de1",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "idList": "65b065a9042c118cda5e0fde",
+    "id": "65b065a9042c118cda5e10a0",
+    "name": "Mensaje secreto!",
+    "idShort": 18,
+    "shortLink": "xasJhZ3d"
+    },
+    "old": {
+    "idList": "65b065a9042c118cda5e0fda"
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "listBefore": {
+    "id": "65b065a9042c118cda5e0fda",
+    "name": "Herramientas"
+    },
+    "listAfter": {
+    "id": "65b065a9042c118cda5e0fde",
+    "name": "Concluido"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-28T00:45:06.925Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a3878afbef5dcb6d73df",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "pos": 40959.375,
+    "id": "65b065a9042c118cda5e1095",
+    "name": "Para saber más: cursos, artículos",
+    "idShort": 11,
+    "shortLink": "Fhvj5YJp"
+    },
+    "old": {
+    "pos": 262143
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "list": {
+    "id": "65b065a9042c118cda5e0fde",
+    "name": "Concluido"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-28T00:44:55.397Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a3878afbef5dcb6d73cf",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "idList": "65b065a9042c118cda5e0fde",
+    "id": "65b065a9042c118cda5e1095",
+    "name": "Para saber más: cursos, artículos",
+    "idShort": 11,
+    "shortLink": "Fhvj5YJp"
+    },
+    "old": {
+    "idList": "65b065a9042c118cda5e0fda"
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "listBefore": {
+    "id": "65b065a9042c118cda5e0fda",
+    "name": "Herramientas"
+    },
+    "listAfter": {
+    "id": "65b065a9042c118cda5e0fde",
+    "name": "Concluido"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-28T00:44:55.368Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a382d2a3d3ddf69efeb2",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "pos": 49151.25,
+    "id": "65b065a9042c118cda5e1097",
+    "name": "Sobre el desafío",
+    "idShort": 12,
+    "shortLink": "orBrv6of"
+    },
+    "old": {
+    "pos": 98303
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "list": {
+    "id": "65b065a9042c118cda5e0fde",
+    "name": "Concluido"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-28T00:44:50.077Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a382d2a3d3ddf69efea2",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "idList": "65b065a9042c118cda5e0fde",
+    "id": "65b065a9042c118cda5e1097",
+    "name": "Sobre el desafío",
+    "idShort": 12,
+    "shortLink": "orBrv6of"
+    },
+    "old": {
+    "idList": "65b065a9042c118cda5e0fda"
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "listBefore": {
+    "id": "65b065a9042c118cda5e0fda",
+    "name": "Herramientas"
+    },
+    "listAfter": {
+    "id": "65b065a9042c118cda5e0fde",
+    "name": "Concluido"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-28T00:44:50.048Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a370c219599824548879",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "card": {
+    "id": "65b065a9042c118cda5e1073",
+    "name": "Encriptar/Codificar",
+    "idShort": 13,
+    "shortLink": "2myasa06"
+    },
+    "checklist": {
+    "id": "65b065a9042c118cda5e107b",
+    "name": "Tareas"
+    },
+    "checkItem": {
+    "id": "65b065aa042c118cda5e133b",
+    "name": "_Mostrar_ en la pantalla el resultado del texto encriptado",
+    "state": "complete",
+    "textData": {
+    "emoji": {}
+    }
+    }
+    },
+    "appCreator": null,
+    "type": "updateCheckItemStateOnCard",
+    "date": "2024-01-28T00:44:32.682Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a36fd22b597979fa5e73",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "card": {
+    "id": "65b065a9042c118cda5e1073",
+    "name": "Encriptar/Codificar",
+    "idShort": 13,
+    "shortLink": "2myasa06"
+    },
+    "checklist": {
+    "id": "65b065a9042c118cda5e107b",
+    "name": "Tareas"
+    },
+    "checkItem": {
+    "id": "65b065aa042c118cda5e133a",
+    "name": "Desarrollar la lógica de la encriptación",
+    "state": "complete",
+    "textData": {
+    "emoji": {}
+    }
+    }
+    },
+    "appCreator": null,
+    "type": "updateCheckItemStateOnCard",
+    "date": "2024-01-28T00:44:31.751Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a36d7f2cf12614beba03",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "card": {
+    "id": "65b065a9042c118cda5e1073",
+    "name": "Encriptar/Codificar",
+    "idShort": 13,
+    "shortLink": "2myasa06"
+    },
+    "checklist": {
+    "id": "65b065a9042c118cda5e107b",
+    "name": "Tareas"
+    },
+    "checkItem": {
+    "id": "65b065aa042c118cda5e1339",
+    "name": "Capturar el texto escrito en el campo del input del HTML",
+    "state": "complete",
+    "textData": {
+    "emoji": {}
+    }
+    }
+    },
+    "appCreator": null,
+    "type": "updateCheckItemStateOnCard",
+    "date": "2024-01-28T00:44:29.424Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a36cef489e74f12c6eea",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "card": {
+    "id": "65b065a9042c118cda5e1073",
+    "name": "Encriptar/Codificar",
+    "idShort": 13,
+    "shortLink": "2myasa06"
+    },
+    "checklist": {
+    "id": "65b065a9042c118cda5e107b",
+    "name": "Tareas"
+    },
+    "checkItem": {
+    "id": "65b065aa042c118cda5e1338",
+    "name": "Conectar función a su respectivo botón en el HTML",
+    "state": "complete",
+    "textData": {
+    "emoji": {}
+    }
+    }
+    },
+    "appCreator": null,
+    "type": "updateCheckItemStateOnCard",
+    "date": "2024-01-28T00:44:28.074Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a36ab6ced089e15df344",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "card": {
+    "id": "65b065a9042c118cda5e1073",
+    "name": "Encriptar/Codificar",
+    "idShort": 13,
+    "shortLink": "2myasa06"
+    },
+    "checklist": {
+    "id": "65b065a9042c118cda5e107b",
+    "name": "Tareas"
+    },
+    "checkItem": {
+    "id": "65b065aa042c118cda5e1337",
+    "name": "Crear función",
+    "state": "complete",
+    "textData": {
+    "emoji": {}
+    }
+    }
+    },
+    "appCreator": null,
+    "type": "updateCheckItemStateOnCard",
+    "date": "2024-01-28T00:44:26.978Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a35e4e77c5e610320b5e",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "pos": 294911,
+    "id": "65b065a9042c118cda5e108d",
+    "name": "Área para mostrar el texto encriptado/desencriptado.",
+    "idShort": 7,
+    "shortLink": "Kt9Z1F9d"
+    },
+    "old": {
+    "pos": 180223
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "list": {
+    "id": "65b065a9042c118cda5e0fde",
+    "name": "Concluido"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-28T00:44:14.729Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a35e4e77c5e610320b4d",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "idList": "65b065a9042c118cda5e0fde",
+    "id": "65b065a9042c118cda5e108d",
+    "name": "Área para mostrar el texto encriptado/desencriptado.",
+    "idShort": 7,
+    "shortLink": "Kt9Z1F9d"
+    },
+    "old": {
+    "idList": "65b065a9042c118cda5e0fdc"
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "listBefore": {
+    "id": "65b065a9042c118cda5e0fdc",
+    "name": "En desarrollo"
+    },
+    "listAfter": {
+    "id": "65b065a9042c118cda5e0fde",
+    "name": "Concluido"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-28T00:44:14.693Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a3584c81a598b2394461",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "card": {
+    "id": "65b065a9042c118cda5e1074",
+    "name": "Extra! Botón copiar",
+    "idShort": 17,
+    "shortLink": "I37ruMJN"
+    },
+    "checklist": {
+    "id": "65b065a9042c118cda5e107c",
+    "name": "Checklist"
+    },
+    "checkItem": {
+    "id": "65b065aa042c118cda5e1326",
+    "name": "Crear un botón para llamar a la función que copia el texto encriptado o desencriptado",
+    "state": "complete",
+    "textData": {
+    "emoji": {}
+    }
+    }
+    },
+    "appCreator": null,
+    "type": "updateCheckItemStateOnCard",
+    "date": "2024-01-28T00:44:08.491Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a25c6dc32174137086b0",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "pos": 83967,
+    "id": "65b065a9042c118cda5e1072",
+    "name": "Desencriptar/Decodificar",
+    "idShort": 15,
+    "shortLink": "rIYM181B"
+    },
+    "old": {
+    "pos": 145407
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "list": {
+    "id": "65b065a9042c118cda5e0fde",
+    "name": "Concluido"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-28T00:39:56.295Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a25c6dc3217413708691",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "idList": "65b065a9042c118cda5e0fde",
+    "id": "65b065a9042c118cda5e1072",
+    "name": "Desencriptar/Decodificar",
+    "idShort": 15,
+    "shortLink": "rIYM181B"
+    },
+    "old": {
+    "idList": "65b065a9042c118cda5e0fdc"
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "listBefore": {
+    "id": "65b065a9042c118cda5e0fdc",
+    "name": "En desarrollo"
+    },
+    "listAfter": {
+    "id": "65b065a9042c118cda5e0fde",
+    "name": "Concluido"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-28T00:39:56.251Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a255ba99c5bda4ec6585",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "card": {
+    "id": "65b065a9042c118cda5e1072",
+    "name": "Desencriptar/Decodificar",
+    "idShort": 15,
+    "shortLink": "rIYM181B"
+    },
+    "checklist": {
+    "id": "65b065a9042c118cda5e107a",
+    "name": "Tarefas"
+    },
+    "checkItem": {
+    "id": "65b065aa042c118cda5e132f",
+    "name": "_Mostrar_ en la pantalla el resultado del texto desencriptado",
+    "state": "complete",
+    "textData": {
+    "emoji": {}
+    }
+    }
+    },
+    "appCreator": null,
+    "type": "updateCheckItemStateOnCard",
+    "date": "2024-01-28T00:39:49.726Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a25486ca7782b5ac99d8",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "card": {
+    "id": "65b065a9042c118cda5e1072",
+    "name": "Desencriptar/Decodificar",
+    "idShort": 15,
+    "shortLink": "rIYM181B"
+    },
+    "checklist": {
+    "id": "65b065a9042c118cda5e107a",
+    "name": "Tarefas"
+    },
+    "checkItem": {
+    "id": "65b065aa042c118cda5e132e",
+    "name": "Desarrollar la lógica de la desencriptación",
+    "state": "complete",
+    "textData": {
+    "emoji": {}
+    }
+    }
+    },
+    "appCreator": null,
+    "type": "updateCheckItemStateOnCard",
+    "date": "2024-01-28T00:39:48.353Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a253a44a5367bcbcf8d8",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "card": {
+    "id": "65b065a9042c118cda5e1072",
+    "name": "Desencriptar/Decodificar",
+    "idShort": 15,
+    "shortLink": "rIYM181B"
+    },
+    "checklist": {
+    "id": "65b065a9042c118cda5e107a",
+    "name": "Tarefas"
+    },
+    "checkItem": {
+    "id": "65b065aa042c118cda5e132d",
+    "name": "Capturar el texto escrito en el campo del input del HTML",
+    "state": "complete",
+    "textData": {
+    "emoji": {}
+    }
+    }
+    },
+    "appCreator": null,
+    "type": "updateCheckItemStateOnCard",
+    "date": "2024-01-28T00:39:47.287Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a250e4b4dc03867890e2",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "card": {
+    "id": "65b065a9042c118cda5e1072",
+    "name": "Desencriptar/Decodificar",
+    "idShort": 15,
+    "shortLink": "rIYM181B"
+    },
+    "checklist": {
+    "id": "65b065a9042c118cda5e107a",
+    "name": "Tarefas"
+    },
+    "checkItem": {
+    "id": "65b065aa042c118cda5e132c",
+    "name": "Conectar función a su respectivo botón en el HTML",
+    "state": "complete",
+    "textData": {
+    "emoji": {}
+    }
+    }
+    },
+    "appCreator": null,
+    "type": "updateCheckItemStateOnCard",
+    "date": "2024-01-28T00:39:44.532Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a24ead23b056871b25a4",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "card": {
+    "id": "65b065a9042c118cda5e1072",
+    "name": "Desencriptar/Decodificar",
+    "idShort": 15,
+    "shortLink": "rIYM181B"
+    },
+    "checklist": {
+    "id": "65b065a9042c118cda5e107a",
+    "name": "Tarefas"
+    },
+    "checkItem": {
+    "id": "65b065aa042c118cda5e132b",
+    "name": "Crear función",
+    "state": "complete",
+    "textData": {
+    "emoji": {}
+    }
+    }
+    },
+    "appCreator": null,
+    "type": "updateCheckItemStateOnCard",
+    "date": "2024-01-28T00:39:42.860Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a242b2956294b823c4f8",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "pos": 32767.5,
+    "id": "65b065a9042c118cda5e1073",
+    "name": "Encriptar/Codificar",
+    "idShort": 13,
+    "shortLink": "2myasa06"
+    },
+    "old": {
+    "pos": 118783
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "list": {
+    "id": "65b065a9042c118cda5e0fde",
+    "name": "Concluido"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-28T00:39:30.409Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b5a242b2956294b823c4d8",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "idList": "65b065a9042c118cda5e0fde",
+    "id": "65b065a9042c118cda5e1073",
+    "name": "Encriptar/Codificar",
+    "idShort": 13,
+    "shortLink": "2myasa06"
+    },
+    "old": {
+    "idList": "65b065a9042c118cda5e0fdc"
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "listBefore": {
+    "id": "65b065a9042c118cda5e0fdc",
+    "name": "En desarrollo"
+    },
+    "listAfter": {
+    "id": "65b065a9042c118cda5e0fde",
+    "name": "Concluido"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-28T00:39:30.357Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b45c3bc9901f695c2d2193",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "pos": 327679,
+    "id": "65b065a9042c118cda5e1093",
+    "name": "Campo para el texto que va a ser encriptado/desencriptado",
+    "idShort": 10,
+    "shortLink": "cQn01cit"
+    },
+    "old": {
+    "pos": 172031
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "list": {
+    "id": "65b065a9042c118cda5e0fde",
+    "name": "Concluido"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-27T01:28:27.568Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b45c3bc9901f695c2d2182",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "idList": "65b065a9042c118cda5e0fde",
+    "id": "65b065a9042c118cda5e1093",
+    "name": "Campo para el texto que va a ser encriptado/desencriptado",
+    "idShort": 10,
+    "shortLink": "cQn01cit"
+    },
+    "old": {
+    "idList": "65b065a9042c118cda5e0fdc"
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "listBefore": {
+    "id": "65b065a9042c118cda5e0fdc",
+    "name": "En desarrollo"
+    },
+    "listAfter": {
+    "id": "65b065a9042c118cda5e0fde",
+    "name": "Concluido"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-27T01:28:27.539Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b45c234049758e8e488e4b",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "pos": 145407,
+    "id": "65b065a9042c118cda5e1072",
+    "name": "Desencriptar/Decodificar",
+    "idShort": 15,
+    "shortLink": "rIYM181B"
+    },
+    "old": {
+    "pos": 245759
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "list": {
+    "id": "65b065a9042c118cda5e0fdc",
+    "name": "En desarrollo"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-27T01:28:03.434Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b45c234049758e8e488e2c",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "idList": "65b065a9042c118cda5e0fdc",
+    "id": "65b065a9042c118cda5e1072",
+    "name": "Desencriptar/Decodificar",
+    "idShort": 15,
+    "shortLink": "rIYM181B"
+    },
+    "old": {
+    "idList": "65b065a9042c118cda5e0fdb"
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "listBefore": {
+    "id": "65b065a9042c118cda5e0fdb",
+    "name": "Backlog"
+    },
+    "listAfter": {
+    "id": "65b065a9042c118cda5e0fdc",
+    "name": "En desarrollo"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-27T01:28:03.364Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b45c212313f6c90c4e4d06",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "pos": 118783,
+    "id": "65b065a9042c118cda5e1073",
+    "name": "Encriptar/Codificar",
+    "idShort": 13,
+    "shortLink": "2myasa06"
+    },
+    "old": {
+    "pos": 229375
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "list": {
+    "id": "65b065a9042c118cda5e0fdc",
+    "name": "En desarrollo"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-27T01:28:01.543Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b45c212313f6c90c4e4ce7",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "idList": "65b065a9042c118cda5e0fdc",
+    "id": "65b065a9042c118cda5e1073",
+    "name": "Encriptar/Codificar",
+    "idShort": 13,
+    "shortLink": "2myasa06"
+    },
+    "old": {
+    "idList": "65b065a9042c118cda5e0fdb"
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "listBefore": {
+    "id": "65b065a9042c118cda5e0fdb",
+    "name": "Backlog"
+    },
+    "listAfter": {
+    "id": "65b065a9042c118cda5e0fdc",
+    "name": "En desarrollo"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-27T01:28:01.496Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b16f24ecdbf382127ae614",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "idList": "65b065a9042c118cda5e0fdc",
+    "id": "65b065a9042c118cda5e108d",
+    "name": "Área para mostrar el texto encriptado/desencriptado.",
+    "idShort": 7,
+    "shortLink": "Kt9Z1F9d"
+    },
+    "old": {
+    "idList": "65b065a9042c118cda5e0fdb"
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "listBefore": {
+    "id": "65b065a9042c118cda5e0fdb",
+    "name": "Backlog"
+    },
+    "listAfter": {
+    "id": "65b065a9042c118cda5e0fdc",
+    "name": "En desarrollo"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-24T20:12:20.369Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b16f063876355a00253f91",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "idList": "65b065a9042c118cda5e0fdc",
+    "id": "65b065a9042c118cda5e1093",
+    "name": "Campo para el texto que va a ser encriptado/desencriptado",
+    "idShort": 10,
+    "shortLink": "cQn01cit"
+    },
+    "old": {
+    "idList": "65b065a9042c118cda5e0fdb"
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "listBefore": {
+    "id": "65b065a9042c118cda5e0fdb",
+    "name": "Backlog"
+    },
+    "listAfter": {
+    "id": "65b065a9042c118cda5e0fdc",
+    "name": "En desarrollo"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-24T20:11:50.008Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b16eff228bcfd7fa852122",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "pos": 77823,
+    "id": "65b065a9042c118cda5e1086",
+    "name": "Modelo Figma",
+    "idShort": 3,
+    "shortLink": "Gh9xJq1r"
+    },
+    "old": {
+    "pos": 114687
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "list": {
+    "id": "65b065a9042c118cda5e0fde",
+    "name": "Concluido"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-24T20:11:43.040Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b16efe228bcfd7fa852110",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "idList": "65b065a9042c118cda5e0fde",
+    "id": "65b065a9042c118cda5e1086",
+    "name": "Modelo Figma",
+    "idShort": 3,
+    "shortLink": "Gh9xJq1r"
+    },
+    "old": {
+    "idList": "65b065a9042c118cda5e0fdc"
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "listBefore": {
+    "id": "65b065a9042c118cda5e0fdc",
+    "name": "En desarrollo"
+    },
+    "listAfter": {
+    "id": "65b065a9042c118cda5e0fde",
+    "name": "Concluido"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-24T20:11:42.990Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b16ef8321810fd1e3c0da6",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "idList": "65b065a9042c118cda5e0fde",
+    "id": "65b065a9042c118cda5e109a",
+    "name": "Elementos de la página",
+    "idShort": 14,
+    "shortLink": "Vv8Z1P6r"
+    },
+    "old": {
+    "idList": "65b065a9042c118cda5e0fdc"
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "listBefore": {
+    "id": "65b065a9042c118cda5e0fdc",
+    "name": "En desarrollo"
+    },
+    "listAfter": {
+    "id": "65b065a9042c118cda5e0fde",
+    "name": "Concluido"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-24T20:11:36.230Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b16ee8437ebdc9b97c9f21",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "pos": 90111,
+    "id": "65b065a9042c118cda5e109a",
+    "name": "Elementos de la página",
+    "idShort": 14,
+    "shortLink": "Vv8Z1P6r"
+    },
+    "old": {
+    "pos": 163839
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "list": {
+    "id": "65b065a9042c118cda5e0fdc",
+    "name": "En desarrollo"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-24T20:11:20.565Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b14a4b9af404720d71186e",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "idList": "65b065a9042c118cda5e0fdc",
+    "id": "65b065a9042c118cda5e109a",
+    "name": "Elementos de la página",
+    "idShort": 14,
+    "shortLink": "Vv8Z1P6r"
+    },
+    "old": {
+    "idList": "65b065a9042c118cda5e0fdb"
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "listBefore": {
+    "id": "65b065a9042c118cda5e0fdb",
+    "name": "Backlog"
+    },
+    "listAfter": {
+    "id": "65b065a9042c118cda5e0fdc",
+    "name": "En desarrollo"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-24T17:35:07.592Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b0683c353af9acf22c4361",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "card": {
+    "idList": "65b065a9042c118cda5e0fdc",
+    "id": "65b065a9042c118cda5e1086",
+    "name": "Modelo Figma",
+    "idShort": 3,
+    "shortLink": "Gh9xJq1r"
+    },
+    "old": {
+    "idList": "65b065a9042c118cda5e0fdb"
+    },
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "listBefore": {
+    "id": "65b065a9042c118cda5e0fdb",
+    "name": "Backlog"
+    },
+    "listAfter": {
+    "id": "65b065a9042c118cda5e0fdc",
+    "name": "En desarrollo"
+    }
+    },
+    "appCreator": null,
+    "type": "updateCard",
+    "date": "2024-01-24T01:30:36.324Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b0671ff538d04e96814b3a",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "board": {
+    "name": "Encriptador de texto- Aluraa Challenges ONE",
+    "id": "65b065a9042c118cda5e0fd9",
+    "shortLink": "T57zJFQ7"
+    },
+    "old": {
+    "name": "Encriptador de texto- AluraaChallenges ONE"
+    }
+    },
+    "appCreator": null,
+    "type": "updateBoard",
+    "date": "2024-01-24T01:25:51.591Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b065ab042c118cda5e14cc",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- AluraaChallenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "organization": {
+    "id": "65a86696465758164e598d08",
+    "name": "plan de estudios Alura+Oracle"
+    }
+    },
+    "appCreator": null,
+    "type": "addToOrganizationBoard",
+    "date": "2024-01-24T01:19:39.110Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    },
+    {
+    "id": "65b065ab042c118cda5e1473",
+    "idMemberCreator": "635b085784e938017a3cc3cc",
+    "data": {
+    "board": {
+    "id": "65b065a9042c118cda5e0fd9",
+    "name": "Encriptador de texto- AluraaChallenges ONE",
+    "shortLink": "T57zJFQ7"
+    },
+    "boardSource": {
+    "id": "62261881955f08669b7c45c4",
+    "prefs": {
+    "isTemplate": false
+    }
+    }
+    },
+    "appCreator": null,
+    "type": "copyBoard",
+    "date": "2024-01-24T01:19:39.099Z",
+    "limits": null,
+    "memberCreator": {
+    "id": "635b085784e938017a3cc3cc",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "fullName": "emanuel gauna",
+    "idMemberReferrer": null,
+    "initials": "EG",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "username": "emanuelgauna"
+    }
+    }
+    ],
+    "cards": [
+    {
+    "id": "65b065a9042c118cda5e1091",
+    "address": null,
+    "badges": {
+    "attachmentsByType": {
+    "trello": {
+    "board": 0,
+    "card": 0
+    }
+    },
+    "location": false,
+    "votes": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false,
+    "fogbugz": "",
+    "checkItems": 0,
+    "checkItemsChecked": 0,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "attachments": 1,
+    "description": false,
+    "due": null,
+    "dueComplete": false,
+    "start": null
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "dueComplete": false,
+    "dateLastActivity": "2024-01-24T01:19:38.903Z",
+    "desc": "",
+    "descData": null,
+    "due": null,
+    "dueReminder": null,
+    "email": "emanuelgauna+2zblj316gtenw3ydn0s+31uc67c53xpwck18901+07xqqfmzd5@boards.trello.com",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "idChecklists": [],
+    "idLabels": [],
+    "idList": "65b065a9042c118cda5e0fda",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "65a86696465758164e598d08",
+    "idShort": 9,
+    "idAttachmentCover": "65b065aa042c118cda5e12dc",
+    "labels": [],
+    "limits": {
+    "attachments": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 1000,
+    "warnAt": 800
+    }
+    },
+    "checklists": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 500,
+    "warnAt": 400
+    }
+    },
+    "stickers": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 70,
+    "warnAt": 56
+    }
+    }
+    },
+    "locationName": null,
+    "manualCoverAttachment": true,
+    "name": ".",
+    "nodeId": "ari:cloud:trello::card/workspace/65a86696465758164e598d08/65b065a9042c118cda5e1091",
+    "pos": 65535,
+    "shortLink": "myhjEKSG",
+    "shortUrl": "https://trello.com/c/myhjEKSG",
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/myhjEKSG/9-untitled",
+    "cover": {
+    "idAttachment": "65b065aa042c118cda5e12dc",
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "scaled": [
+    {
+    "_id": "65b065aa042c118cda5e12de",
+    "id": "65b065aa042c118cda5e12de",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1091/attachments/65b065aa042c118cda5e12dc/previews/65b065aa042c118cda5e12de/download/material-de-apoyo.png",
+    "bytes": 1407,
+    "height": 50,
+    "width": 70
+    },
+    {
+    "_id": "65b065aa042c118cda5e12e0",
+    "id": "65b065aa042c118cda5e12e0",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1091/attachments/65b065aa042c118cda5e12dc/previews/65b065aa042c118cda5e12e0/download/material-de-apoyo.png",
+    "bytes": 3730,
+    "height": 53,
+    "width": 150
+    },
+    {
+    "_id": "65b065aa042c118cda5e12df",
+    "id": "65b065aa042c118cda5e12df",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1091/attachments/65b065aa042c118cda5e12dc/previews/65b065aa042c118cda5e12df/download/material-de-apoyo.png",
+    "bytes": 7161,
+    "height": 150,
+    "width": 250
+    },
+    {
+    "_id": "65b065aa042c118cda5e12e1",
+    "id": "65b065aa042c118cda5e12e1",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1091/attachments/65b065aa042c118cda5e12dc/previews/65b065aa042c118cda5e12e1/download/material-de-apoyo.png",
+    "bytes": 8738,
+    "height": 106,
+    "width": 300
+    },
+    {
+    "_id": "65b065aa042c118cda5e12e2",
+    "id": "65b065aa042c118cda5e12e2",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1091/attachments/65b065aa042c118cda5e12dc/previews/65b065aa042c118cda5e12e2/download/material-de-apoyo.png",
+    "bytes": 17662,
+    "height": 211,
+    "width": 600
+    },
+    {
+    "_id": "65b065aa042c118cda5e12e3",
+    "id": "65b065aa042c118cda5e12e3",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1091/attachments/65b065aa042c118cda5e12dc/previews/65b065aa042c118cda5e12e3/download/material-de-apoyo.png",
+    "bytes": 36445,
+    "height": 422,
+    "width": 1200
+    },
+    {
+    "_id": "65b065aa042c118cda5e12e4",
+    "id": "65b065aa042c118cda5e12e4",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1091/attachments/65b065aa042c118cda5e12dc/previews/65b065aa042c118cda5e12e4/download/material-de-apoyo.png",
+    "bytes": 62360,
+    "height": 1055,
+    "width": 3000
+    }
+    ],
+    "edgeColor": "#041c3c",
+    "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [
+    {
+    "id": "65b065aa042c118cda5e12dc",
+    "bytes": 62360,
+    "date": "2021-09-13T19:22:02.771Z",
+    "edgeColor": "#041c3c",
+    "idMember": "65b065aa042c118cda5e12dd",
+    "isUpload": true,
+    "mimeType": "image/png",
+    "name": "material-de-apoyo.png",
+    "previews": [
+    {
+    "_id": "65b065aa042c118cda5e12de",
+    "id": "65b065aa042c118cda5e12de",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1091/attachments/65b065aa042c118cda5e12dc/previews/65b065aa042c118cda5e12de/download/material-de-apoyo.png",
+    "bytes": 1407,
+    "height": 50,
+    "width": 70
+    },
+    {
+    "_id": "65b065aa042c118cda5e12df",
+    "id": "65b065aa042c118cda5e12df",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1091/attachments/65b065aa042c118cda5e12dc/previews/65b065aa042c118cda5e12df/download/material-de-apoyo.png",
+    "bytes": 7161,
+    "height": 150,
+    "width": 250
+    },
+    {
+    "_id": "65b065aa042c118cda5e12e0",
+    "id": "65b065aa042c118cda5e12e0",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1091/attachments/65b065aa042c118cda5e12dc/previews/65b065aa042c118cda5e12e0/download/material-de-apoyo.png",
+    "bytes": 3730,
+    "height": 53,
+    "width": 150
+    },
+    {
+    "_id": "65b065aa042c118cda5e12e1",
+    "id": "65b065aa042c118cda5e12e1",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1091/attachments/65b065aa042c118cda5e12dc/previews/65b065aa042c118cda5e12e1/download/material-de-apoyo.png",
+    "bytes": 8738,
+    "height": 106,
+    "width": 300
+    },
+    {
+    "_id": "65b065aa042c118cda5e12e2",
+    "id": "65b065aa042c118cda5e12e2",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1091/attachments/65b065aa042c118cda5e12dc/previews/65b065aa042c118cda5e12e2/download/material-de-apoyo.png",
+    "bytes": 17662,
+    "height": 211,
+    "width": 600
+    },
+    {
+    "_id": "65b065aa042c118cda5e12e3",
+    "id": "65b065aa042c118cda5e12e3",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1091/attachments/65b065aa042c118cda5e12dc/previews/65b065aa042c118cda5e12e3/download/material-de-apoyo.png",
+    "bytes": 36445,
+    "height": 422,
+    "width": 1200
+    },
+    {
+    "_id": "65b065aa042c118cda5e12e4",
+    "id": "65b065aa042c118cda5e12e4",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1091/attachments/65b065aa042c118cda5e12dc/previews/65b065aa042c118cda5e12e4/download/material-de-apoyo.png",
+    "bytes": 62360,
+    "height": 1055,
+    "width": 3000
+    }
+    ],
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1091/attachments/65b065aa042c118cda5e12dc/download/material-de-apoyo.png",
+    "pos": 16384,
+    "fileName": "material-de-apoyo.png"
+    }
+    ],
+    "pluginData": [],
+    "customFieldItems": []
+    },
+    {
+    "id": "65b065a9042c118cda5e1082",
+    "address": null,
+    "badges": {
+    "attachmentsByType": {
+    "trello": {
+    "board": 0,
+    "card": 0
+    }
+    },
+    "location": false,
+    "votes": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false,
+    "fogbugz": "",
+    "checkItems": 0,
+    "checkItemsChecked": 0,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "attachments": 1,
+    "description": false,
+    "due": null,
+    "dueComplete": false,
+    "start": null
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "dueComplete": false,
+    "dateLastActivity": "2024-01-24T01:19:38.992Z",
+    "desc": "",
+    "descData": null,
+    "due": null,
+    "dueReminder": null,
+    "email": "emanuelgauna+2zblj316gtenw3ydn0s+31uc67c53xpwck188zm+16oynu4jv9@boards.trello.com",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "idChecklists": [],
+    "idLabels": [],
+    "idList": "65b065a9042c118cda5e0fdb",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "65a86696465758164e598d08",
+    "idShort": 1,
+    "idAttachmentCover": "65b065aa042c118cda5e12b8",
+    "labels": [],
+    "limits": {
+    "attachments": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 1000,
+    "warnAt": 800
+    }
+    },
+    "checklists": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 500,
+    "warnAt": 400
+    }
+    },
+    "stickers": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 70,
+    "warnAt": 56
+    }
+    }
+    },
+    "locationName": null,
+    "manualCoverAttachment": true,
+    "name": ".",
+    "nodeId": "ari:cloud:trello::card/workspace/65a86696465758164e598d08/65b065a9042c118cda5e1082",
+    "pos": 65535,
+    "shortLink": "wtuklT5K",
+    "shortUrl": "https://trello.com/c/wtuklT5K",
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/wtuklT5K/1-untitled",
+    "cover": {
+    "idAttachment": "65b065aa042c118cda5e12b8",
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "scaled": [
+    {
+    "_id": "65b065aa042c118cda5e12ba",
+    "id": "65b065aa042c118cda5e12ba",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1082/attachments/65b065aa042c118cda5e12b8/previews/65b065aa042c118cda5e12ba/download/listos-para-iniciar.png",
+    "bytes": 1472,
+    "height": 50,
+    "width": 70
+    },
+    {
+    "_id": "65b065aa042c118cda5e12bc",
+    "id": "65b065aa042c118cda5e12bc",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1082/attachments/65b065aa042c118cda5e12b8/previews/65b065aa042c118cda5e12bc/download/listos-para-iniciar.png",
+    "bytes": 3970,
+    "height": 53,
+    "width": 150
+    },
+    {
+    "_id": "65b065aa042c118cda5e12bb",
+    "id": "65b065aa042c118cda5e12bb",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1082/attachments/65b065aa042c118cda5e12b8/previews/65b065aa042c118cda5e12bb/download/listos-para-iniciar.png",
+    "bytes": 7570,
+    "height": 150,
+    "width": 250
+    },
+    {
+    "_id": "65b065aa042c118cda5e12bd",
+    "id": "65b065aa042c118cda5e12bd",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1082/attachments/65b065aa042c118cda5e12b8/previews/65b065aa042c118cda5e12bd/download/listos-para-iniciar.png",
+    "bytes": 9017,
+    "height": 106,
+    "width": 300
+    },
+    {
+    "_id": "65b065aa042c118cda5e12be",
+    "id": "65b065aa042c118cda5e12be",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1082/attachments/65b065aa042c118cda5e12b8/previews/65b065aa042c118cda5e12be/download/listos-para-iniciar.png",
+    "bytes": 18885,
+    "height": 211,
+    "width": 600
+    },
+    {
+    "_id": "65b065aa042c118cda5e12bf",
+    "id": "65b065aa042c118cda5e12bf",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1082/attachments/65b065aa042c118cda5e12b8/previews/65b065aa042c118cda5e12bf/download/listos-para-iniciar.png",
+    "bytes": 39389,
+    "height": 422,
+    "width": 1200
+    },
+    {
+    "_id": "65b065aa042c118cda5e12c0",
+    "id": "65b065aa042c118cda5e12c0",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1082/attachments/65b065aa042c118cda5e12b8/previews/65b065aa042c118cda5e12c0/download/listos-para-iniciar.png",
+    "bytes": 90237,
+    "height": 1055,
+    "width": 3000
+    }
+    ],
+    "edgeColor": "#041c3c",
+    "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [
+    {
+    "id": "65b065aa042c118cda5e12b8",
+    "bytes": 90237,
+    "date": "2021-09-13T19:22:26.450Z",
+    "edgeColor": "#041c3c",
+    "idMember": "65b065aa042c118cda5e12b9",
+    "isUpload": true,
+    "mimeType": "image/png",
+    "name": "listos-para-iniciar.png",
+    "previews": [
+    {
+    "_id": "65b065aa042c118cda5e12ba",
+    "id": "65b065aa042c118cda5e12ba",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1082/attachments/65b065aa042c118cda5e12b8/previews/65b065aa042c118cda5e12ba/download/listos-para-iniciar.png",
+    "bytes": 1472,
+    "height": 50,
+    "width": 70
+    },
+    {
+    "_id": "65b065aa042c118cda5e12bb",
+    "id": "65b065aa042c118cda5e12bb",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1082/attachments/65b065aa042c118cda5e12b8/previews/65b065aa042c118cda5e12bb/download/listos-para-iniciar.png",
+    "bytes": 7570,
+    "height": 150,
+    "width": 250
+    },
+    {
+    "_id": "65b065aa042c118cda5e12bc",
+    "id": "65b065aa042c118cda5e12bc",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1082/attachments/65b065aa042c118cda5e12b8/previews/65b065aa042c118cda5e12bc/download/listos-para-iniciar.png",
+    "bytes": 3970,
+    "height": 53,
+    "width": 150
+    },
+    {
+    "_id": "65b065aa042c118cda5e12bd",
+    "id": "65b065aa042c118cda5e12bd",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1082/attachments/65b065aa042c118cda5e12b8/previews/65b065aa042c118cda5e12bd/download/listos-para-iniciar.png",
+    "bytes": 9017,
+    "height": 106,
+    "width": 300
+    },
+    {
+    "_id": "65b065aa042c118cda5e12be",
+    "id": "65b065aa042c118cda5e12be",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1082/attachments/65b065aa042c118cda5e12b8/previews/65b065aa042c118cda5e12be/download/listos-para-iniciar.png",
+    "bytes": 18885,
+    "height": 211,
+    "width": 600
+    },
+    {
+    "_id": "65b065aa042c118cda5e12bf",
+    "id": "65b065aa042c118cda5e12bf",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1082/attachments/65b065aa042c118cda5e12b8/previews/65b065aa042c118cda5e12bf/download/listos-para-iniciar.png",
+    "bytes": 39389,
+    "height": 422,
+    "width": 1200
+    },
+    {
+    "_id": "65b065aa042c118cda5e12c0",
+    "id": "65b065aa042c118cda5e12c0",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1082/attachments/65b065aa042c118cda5e12b8/previews/65b065aa042c118cda5e12c0/download/listos-para-iniciar.png",
+    "bytes": 90237,
+    "height": 1055,
+    "width": 3000
+    }
+    ],
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1082/attachments/65b065aa042c118cda5e12b8/download/listos-para-iniciar.png",
+    "pos": 16384,
+    "fileName": "listos-para-iniciar.png"
+    }
+    ],
+    "pluginData": [],
+    "customFieldItems": []
+    },
+    {
+    "id": "65b065a9042c118cda5e1088",
+    "address": null,
+    "badges": {
+    "attachmentsByType": {
+    "trello": {
+    "board": 0,
+    "card": 0
+    }
+    },
+    "location": false,
+    "votes": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false,
+    "fogbugz": "",
+    "checkItems": 0,
+    "checkItemsChecked": 0,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "attachments": 1,
+    "description": false,
+    "due": null,
+    "dueComplete": false,
+    "start": null
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "dueComplete": false,
+    "dateLastActivity": "2024-01-24T01:19:39.012Z",
+    "desc": "",
+    "descData": null,
+    "due": null,
+    "dueReminder": null,
+    "email": "emanuelgauna+2zblj316gtenw3ydn0s+31uc67c53xpwck188zs+1lqgur2qy1@boards.trello.com",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "idChecklists": [],
+    "idLabels": [],
+    "idList": "65b065a9042c118cda5e0fdc",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "65a86696465758164e598d08",
+    "idShort": 4,
+    "idAttachmentCover": "65b065aa042c118cda5e12c1",
+    "labels": [],
+    "limits": {
+    "attachments": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 1000,
+    "warnAt": 800
+    }
+    },
+    "checklists": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 500,
+    "warnAt": 400
+    }
+    },
+    "stickers": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 70,
+    "warnAt": 56
+    }
+    }
+    },
+    "locationName": null,
+    "manualCoverAttachment": true,
+    "name": ".",
+    "nodeId": "ari:cloud:trello::card/workspace/65a86696465758164e598d08/65b065a9042c118cda5e1088",
+    "pos": 65535,
+    "shortLink": "u07EtlLs",
+    "shortUrl": "https://trello.com/c/u07EtlLs",
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/u07EtlLs/4-untitled",
+    "cover": {
+    "idAttachment": "65b065aa042c118cda5e12c1",
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "scaled": [
+    {
+    "_id": "65b065aa042c118cda5e12c3",
+    "id": "65b065aa042c118cda5e12c3",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1088/attachments/65b065aa042c118cda5e12c1/previews/65b065aa042c118cda5e12c3/download/en-desarrollo.png",
+    "bytes": 1352,
+    "height": 50,
+    "width": 70
+    },
+    {
+    "_id": "65b065aa042c118cda5e12c5",
+    "id": "65b065aa042c118cda5e12c5",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1088/attachments/65b065aa042c118cda5e12c1/previews/65b065aa042c118cda5e12c5/download/en-desarrollo.png",
+    "bytes": 3439,
+    "height": 53,
+    "width": 150
+    },
+    {
+    "_id": "65b065aa042c118cda5e12c4",
+    "id": "65b065aa042c118cda5e12c4",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1088/attachments/65b065aa042c118cda5e12c1/previews/65b065aa042c118cda5e12c4/download/en-desarrollo.png",
+    "bytes": 6174,
+    "height": 150,
+    "width": 250
+    },
+    {
+    "_id": "65b065aa042c118cda5e12c6",
+    "id": "65b065aa042c118cda5e12c6",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1088/attachments/65b065aa042c118cda5e12c1/previews/65b065aa042c118cda5e12c6/download/en-desarrollo.png",
+    "bytes": 7363,
+    "height": 106,
+    "width": 300
+    },
+    {
+    "_id": "65b065aa042c118cda5e12c7",
+    "id": "65b065aa042c118cda5e12c7",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1088/attachments/65b065aa042c118cda5e12c1/previews/65b065aa042c118cda5e12c7/download/en-desarrollo.png",
+    "bytes": 14611,
+    "height": 211,
+    "width": 600
+    },
+    {
+    "_id": "65b065aa042c118cda5e12c8",
+    "id": "65b065aa042c118cda5e12c8",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1088/attachments/65b065aa042c118cda5e12c1/previews/65b065aa042c118cda5e12c8/download/en-desarrollo.png",
+    "bytes": 29814,
+    "height": 422,
+    "width": 1200
+    },
+    {
+    "_id": "65b065aa042c118cda5e12c9",
+    "id": "65b065aa042c118cda5e12c9",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1088/attachments/65b065aa042c118cda5e12c1/previews/65b065aa042c118cda5e12c9/download/en-desarrollo.png",
+    "bytes": 57937,
+    "height": 1055,
+    "width": 3000
+    }
+    ],
+    "edgeColor": "#041c3c",
+    "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [
+    {
+    "id": "65b065aa042c118cda5e12c1",
+    "bytes": 57937,
+    "date": "2021-09-13T19:22:49.607Z",
+    "edgeColor": "#041c3c",
+    "idMember": "65b065aa042c118cda5e12c2",
+    "isUpload": true,
+    "mimeType": "image/png",
+    "name": "en-desarrollo.png",
+    "previews": [
+    {
+    "_id": "65b065aa042c118cda5e12c3",
+    "id": "65b065aa042c118cda5e12c3",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1088/attachments/65b065aa042c118cda5e12c1/previews/65b065aa042c118cda5e12c3/download/en-desarrollo.png",
+    "bytes": 1352,
+    "height": 50,
+    "width": 70
+    },
+    {
+    "_id": "65b065aa042c118cda5e12c4",
+    "id": "65b065aa042c118cda5e12c4",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1088/attachments/65b065aa042c118cda5e12c1/previews/65b065aa042c118cda5e12c4/download/en-desarrollo.png",
+    "bytes": 6174,
+    "height": 150,
+    "width": 250
+    },
+    {
+    "_id": "65b065aa042c118cda5e12c5",
+    "id": "65b065aa042c118cda5e12c5",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1088/attachments/65b065aa042c118cda5e12c1/previews/65b065aa042c118cda5e12c5/download/en-desarrollo.png",
+    "bytes": 3439,
+    "height": 53,
+    "width": 150
+    },
+    {
+    "_id": "65b065aa042c118cda5e12c6",
+    "id": "65b065aa042c118cda5e12c6",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1088/attachments/65b065aa042c118cda5e12c1/previews/65b065aa042c118cda5e12c6/download/en-desarrollo.png",
+    "bytes": 7363,
+    "height": 106,
+    "width": 300
+    },
+    {
+    "_id": "65b065aa042c118cda5e12c7",
+    "id": "65b065aa042c118cda5e12c7",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1088/attachments/65b065aa042c118cda5e12c1/previews/65b065aa042c118cda5e12c7/download/en-desarrollo.png",
+    "bytes": 14611,
+    "height": 211,
+    "width": 600
+    },
+    {
+    "_id": "65b065aa042c118cda5e12c8",
+    "id": "65b065aa042c118cda5e12c8",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1088/attachments/65b065aa042c118cda5e12c1/previews/65b065aa042c118cda5e12c8/download/en-desarrollo.png",
+    "bytes": 29814,
+    "height": 422,
+    "width": 1200
+    },
+    {
+    "_id": "65b065aa042c118cda5e12c9",
+    "id": "65b065aa042c118cda5e12c9",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1088/attachments/65b065aa042c118cda5e12c1/previews/65b065aa042c118cda5e12c9/download/en-desarrollo.png",
+    "bytes": 57937,
+    "height": 1055,
+    "width": 3000
+    }
+    ],
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1088/attachments/65b065aa042c118cda5e12c1/download/en-desarrollo.png",
+    "pos": 16384,
+    "fileName": "en-desarrollo.png"
+    }
+    ],
+    "pluginData": [],
+    "customFieldItems": []
+    },
+    {
+    "id": "65b065a9042c118cda5e108b",
+    "address": null,
+    "badges": {
+    "attachmentsByType": {
+    "trello": {
+    "board": 0,
+    "card": 0
+    }
+    },
+    "location": false,
+    "votes": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false,
+    "fogbugz": "",
+    "checkItems": 0,
+    "checkItemsChecked": 0,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "attachments": 1,
+    "description": false,
+    "due": null,
+    "dueComplete": false,
+    "start": null
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "dueComplete": false,
+    "dateLastActivity": "2024-01-24T01:19:38.995Z",
+    "desc": "",
+    "descData": null,
+    "due": null,
+    "dueReminder": null,
+    "email": "emanuelgauna+2zblj316gtenw3ydn0s+31uc67c53xpwck188zv+06k2rcivmy@boards.trello.com",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "idChecklists": [],
+    "idLabels": [],
+    "idList": "65b065a9042c118cda5e0fdd",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "65a86696465758164e598d08",
+    "idShort": 6,
+    "idAttachmentCover": "65b065aa042c118cda5e12ca",
+    "labels": [],
+    "limits": {
+    "attachments": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 1000,
+    "warnAt": 800
+    }
+    },
+    "checklists": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 500,
+    "warnAt": 400
+    }
+    },
+    "stickers": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 70,
+    "warnAt": 56
+    }
+    }
+    },
+    "locationName": null,
+    "manualCoverAttachment": true,
+    "name": ".",
+    "nodeId": "ari:cloud:trello::card/workspace/65a86696465758164e598d08/65b065a9042c118cda5e108b",
+    "pos": 65535,
+    "shortLink": "VkAVwbnI",
+    "shortUrl": "https://trello.com/c/VkAVwbnI",
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/VkAVwbnI/6-untitled",
+    "cover": {
+    "idAttachment": "65b065aa042c118cda5e12ca",
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "scaled": [
+    {
+    "_id": "65b065aa042c118cda5e12cc",
+    "id": "65b065aa042c118cda5e12cc",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108b/attachments/65b065aa042c118cda5e12ca/previews/65b065aa042c118cda5e12cc/download/pausado-es.png",
+    "bytes": 1055,
+    "height": 50,
+    "width": 70
+    },
+    {
+    "_id": "65b065aa042c118cda5e12ce",
+    "id": "65b065aa042c118cda5e12ce",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108b/attachments/65b065aa042c118cda5e12ca/previews/65b065aa042c118cda5e12ce/download/pausado-es.png",
+    "bytes": 2469,
+    "height": 53,
+    "width": 150
+    },
+    {
+    "_id": "65b065aa042c118cda5e12cd",
+    "id": "65b065aa042c118cda5e12cd",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108b/attachments/65b065aa042c118cda5e12ca/previews/65b065aa042c118cda5e12cd/download/pausado-es.png",
+    "bytes": 4640,
+    "height": 150,
+    "width": 250
+    },
+    {
+    "_id": "65b065aa042c118cda5e12cf",
+    "id": "65b065aa042c118cda5e12cf",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108b/attachments/65b065aa042c118cda5e12ca/previews/65b065aa042c118cda5e12cf/download/pausado-es.png",
+    "bytes": 5459,
+    "height": 106,
+    "width": 300
+    },
+    {
+    "_id": "65b065aa042c118cda5e12d0",
+    "id": "65b065aa042c118cda5e12d0",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108b/attachments/65b065aa042c118cda5e12ca/previews/65b065aa042c118cda5e12d0/download/pausado-es.png",
+    "bytes": 11141,
+    "height": 211,
+    "width": 600
+    },
+    {
+    "_id": "65b065aa042c118cda5e12d1",
+    "id": "65b065aa042c118cda5e12d1",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108b/attachments/65b065aa042c118cda5e12ca/previews/65b065aa042c118cda5e12d1/download/pausado-es.png",
+    "bytes": 23246,
+    "height": 422,
+    "width": 1200
+    },
+    {
+    "_id": "65b065aa042c118cda5e12d2",
+    "id": "65b065aa042c118cda5e12d2",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108b/attachments/65b065aa042c118cda5e12ca/previews/65b065aa042c118cda5e12d2/download/pausado-es.png",
+    "bytes": 58256,
+    "height": 1055,
+    "width": 3000
+    }
+    ],
+    "edgeColor": "#041c3c",
+    "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [
+    {
+    "id": "65b065aa042c118cda5e12ca",
+    "bytes": 58256,
+    "date": "2021-09-13T19:23:17.227Z",
+    "edgeColor": "#041c3c",
+    "idMember": "65b065aa042c118cda5e12cb",
+    "isUpload": true,
+    "mimeType": "image/png",
+    "name": "pausado-es.png",
+    "previews": [
+    {
+    "_id": "65b065aa042c118cda5e12cc",
+    "id": "65b065aa042c118cda5e12cc",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108b/attachments/65b065aa042c118cda5e12ca/previews/65b065aa042c118cda5e12cc/download/pausado-es.png",
+    "bytes": 1055,
+    "height": 50,
+    "width": 70
+    },
+    {
+    "_id": "65b065aa042c118cda5e12cd",
+    "id": "65b065aa042c118cda5e12cd",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108b/attachments/65b065aa042c118cda5e12ca/previews/65b065aa042c118cda5e12cd/download/pausado-es.png",
+    "bytes": 4640,
+    "height": 150,
+    "width": 250
+    },
+    {
+    "_id": "65b065aa042c118cda5e12ce",
+    "id": "65b065aa042c118cda5e12ce",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108b/attachments/65b065aa042c118cda5e12ca/previews/65b065aa042c118cda5e12ce/download/pausado-es.png",
+    "bytes": 2469,
+    "height": 53,
+    "width": 150
+    },
+    {
+    "_id": "65b065aa042c118cda5e12cf",
+    "id": "65b065aa042c118cda5e12cf",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108b/attachments/65b065aa042c118cda5e12ca/previews/65b065aa042c118cda5e12cf/download/pausado-es.png",
+    "bytes": 5459,
+    "height": 106,
+    "width": 300
+    },
+    {
+    "_id": "65b065aa042c118cda5e12d0",
+    "id": "65b065aa042c118cda5e12d0",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108b/attachments/65b065aa042c118cda5e12ca/previews/65b065aa042c118cda5e12d0/download/pausado-es.png",
+    "bytes": 11141,
+    "height": 211,
+    "width": 600
+    },
+    {
+    "_id": "65b065aa042c118cda5e12d1",
+    "id": "65b065aa042c118cda5e12d1",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108b/attachments/65b065aa042c118cda5e12ca/previews/65b065aa042c118cda5e12d1/download/pausado-es.png",
+    "bytes": 23246,
+    "height": 422,
+    "width": 1200
+    },
+    {
+    "_id": "65b065aa042c118cda5e12d2",
+    "id": "65b065aa042c118cda5e12d2",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108b/attachments/65b065aa042c118cda5e12ca/previews/65b065aa042c118cda5e12d2/download/pausado-es.png",
+    "bytes": 58256,
+    "height": 1055,
+    "width": 3000
+    }
+    ],
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108b/attachments/65b065aa042c118cda5e12ca/download/pausado-es.png",
+    "pos": 16384,
+    "fileName": "pausado-es.png"
+    }
+    ],
+    "pluginData": [],
+    "customFieldItems": []
+    },
+    {
+    "id": "65b065a9042c118cda5e1073",
+    "address": null,
+    "badges": {
+    "attachmentsByType": {
+    "trello": {
+    "board": 0,
+    "card": 1
+    }
+    },
+    "location": false,
+    "votes": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false,
+    "fogbugz": "",
+    "checkItems": 5,
+    "checkItemsChecked": 5,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "attachments": 2,
+    "description": true,
+    "due": null,
+    "dueComplete": false,
+    "start": null
+    },
+    "checkItemStates": [
+    {
+    "idCheckItem": "65b065aa042c118cda5e1337",
+    "state": "complete"
+    },
+    {
+    "idCheckItem": "65b065aa042c118cda5e1338",
+    "state": "complete"
+    },
+    {
+    "idCheckItem": "65b065aa042c118cda5e1339",
+    "state": "complete"
+    },
+    {
+    "idCheckItem": "65b065aa042c118cda5e133a",
+    "state": "complete"
+    },
+    {
+    "idCheckItem": "65b065aa042c118cda5e133b",
+    "state": "complete"
+    }
+    ],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "dueComplete": false,
+    "dateLastActivity": "2024-01-28T00:44:32.717Z",
+    "desc": "# Hacer encriptación\n\nUtilice  JavaScript y todo lo que aprendió en las clases de lógica de programación para crear la **función de encriptación**. Siga los pasos descritos abajo para saber lo que es necesario hacer.\n\n> Importante! Las reglas de  encriptación están especificadas en la tarjeta `Sobre el desafío!`",
+    "descData": {
+    "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": "emanuelgauna+2zblj316gtenw3ydn0s+31uc67c53xpwck188z7+27daxf3ouq@boards.trello.com",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "idChecklists": [
+    "65b065a9042c118cda5e107b"
+    ],
+    "idLabels": [
+    "65b065a9042c118cda5e10a7"
+    ],
+    "idList": "65b065a9042c118cda5e0fde",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "65a86696465758164e598d08",
+    "idShort": 13,
+    "idAttachmentCover": null,
+    "labels": [
+    {
+    "id": "65b065a9042c118cda5e10a7",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "name": "JavaScript",
+    "color": "black",
+    "uses": 3
+    }
+    ],
+    "limits": {
+    "attachments": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 1000,
+    "warnAt": 800
+    }
+    },
+    "checklists": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 500,
+    "warnAt": 400
+    }
+    },
+    "stickers": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 70,
+    "warnAt": 56
+    }
+    }
+    },
+    "locationName": null,
+    "manualCoverAttachment": true,
+    "name": "Encriptar/Codificar",
+    "nodeId": "ari:cloud:trello::card/workspace/65a86696465758164e598d08/65b065a9042c118cda5e1073",
+    "pos": 32767.5,
+    "shortLink": "2myasa06",
+    "shortUrl": "https://trello.com/c/2myasa06",
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/2myasa06/13-encriptar-codificar",
+    "cover": {
+    "idAttachment": null,
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [
+    {
+    "id": "65b065aa042c118cda5e12af",
+    "bytes": null,
+    "date": "2021-09-13T19:50:16.456Z",
+    "edgeColor": null,
+    "idMember": "65b065aa042c118cda5e12b0",
+    "isUpload": false,
+    "mimeType": "",
+    "name": "https://trello.com/c/AoIzWTME/7-sobre-el-desaf%C3%ADo",
+    "previews": [],
+    "url": "https://trello.com/c/AoIzWTME/7-sobre-el-desaf%C3%ADo",
+    "pos": 16384,
+    "fileName": "7-sobre-el-desaf%C3%ADo"
+    },
+    {
+    "id": "65b065aa042c118cda5e12b1",
+    "bytes": 1219,
+    "date": "2022-03-07T15:06:18.018Z",
+    "edgeColor": "#f4f4fc",
+    "idMember": "65b065aa042c118cda5e12b2",
+    "isUpload": true,
+    "mimeType": "image/png",
+    "name": "botón-enc.png",
+    "previews": [
+    {
+    "_id": "65b065aa042c118cda5e12b3",
+    "id": "65b065aa042c118cda5e12b3",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1073/attachments/65b065aa042c118cda5e12b1/previews/65b065aa042c118cda5e12b3/download/bot%C3%B3n-enc.png",
+    "bytes": 927,
+    "height": 50,
+    "width": 70
+    },
+    {
+    "_id": "65b065aa042c118cda5e12b4",
+    "id": "65b065aa042c118cda5e12b4",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1073/attachments/65b065aa042c118cda5e12b1/previews/65b065aa042c118cda5e12b4/download/bot%C3%B3n-enc.png",
+    "bytes": 1661,
+    "height": 150,
+    "width": 250
+    },
+    {
+    "_id": "65b065aa042c118cda5e12b5",
+    "id": "65b065aa042c118cda5e12b5",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1073/attachments/65b065aa042c118cda5e12b1/previews/65b065aa042c118cda5e12b5/download/bot%C3%B3n-enc.png",
+    "bytes": 1881,
+    "height": 33,
+    "width": 150
+    },
+    {
+    "_id": "65b065aa042c118cda5e12b6",
+    "id": "65b065aa042c118cda5e12b6",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1073/attachments/65b065aa042c118cda5e12b1/previews/65b065aa042c118cda5e12b6/download/bot%C3%B3n-enc.png",
+    "bytes": 1430,
+    "height": 39,
+    "width": 178
+    },
+    {
+    "_id": "65b065aa042c118cda5e12b7",
+    "id": "65b065aa042c118cda5e12b7",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1073/attachments/65b065aa042c118cda5e12b1/previews/65b065aa042c118cda5e12b7/download/bot%C3%B3n-enc.png",
+    "bytes": 1219,
+    "height": 39,
+    "width": 178
+    }
+    ],
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1073/attachments/65b065aa042c118cda5e12b1/download/bot%C3%B3n-enc.png",
+    "pos": 32768,
+    "fileName": "bot%C3%B3n-enc.png"
+    }
+    ],
+    "pluginData": [],
+    "customFieldItems": []
+    },
+    {
+    "id": "65b065a9042c118cda5e109d",
+    "address": null,
+    "badges": {
+    "attachmentsByType": {
+    "trello": {
+    "board": 0,
+    "card": 0
+    }
+    },
+    "location": false,
+    "votes": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false,
+    "fogbugz": "",
+    "checkItems": 0,
+    "checkItemsChecked": 0,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "attachments": 0,
+    "description": true,
+    "due": null,
+    "dueComplete": false,
+    "start": null
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "dueComplete": false,
+    "dateLastActivity": "2024-01-28T01:00:47.864Z",
+    "desc": "# Publica tu página en GitHub Pages!\n\nUtiliza lo que aprendiste sobre Git e GitHub  y publica tu página web utilizando el servicio **GitHub Pages**. De esta forma, podrás compartir el resultado de tu proyecto!\n\nArtículo para ayudarte en esta misión: https://www.aluracursos.com/blog/github-pages",
+    "descData": {
+    "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": "emanuelgauna+2zblj316gtenw3ydn0s+31uc67c53xpwck1890d+1ofz6d6yfy@boards.trello.com",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "idChecklists": [],
+    "idLabels": [],
+    "idList": "65b065a9042c118cda5e0fde",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "65a86696465758164e598d08",
+    "idShort": 16,
+    "idAttachmentCover": null,
+    "labels": [],
+    "limits": {
+    "attachments": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 1000,
+    "warnAt": 800
+    }
+    },
+    "checklists": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 500,
+    "warnAt": 400
+    }
+    },
+    "stickers": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 70,
+    "warnAt": 56
+    }
+    }
+    },
+    "locationName": null,
+    "manualCoverAttachment": false,
+    "name": "¡Publica tu página web!",
+    "nodeId": "ari:cloud:trello::card/workspace/65a86696465758164e598d08/65b065a9042c118cda5e109d",
+    "pos": 33279.4921875,
+    "shortLink": "ByTcPOQ7",
+    "shortUrl": "https://trello.com/c/ByTcPOQ7",
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/ByTcPOQ7/16-publica-tu-p%C3%A1gina-web",
+    "cover": {
+    "idAttachment": null,
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [],
+    "pluginData": [],
+    "customFieldItems": []
+    },
+    {
+    "id": "65b065a9042c118cda5e1084",
+    "address": null,
+    "badges": {
+    "attachmentsByType": {
+    "trello": {
+    "board": 0,
+    "card": 0
+    }
+    },
+    "location": false,
+    "votes": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false,
+    "fogbugz": "",
+    "checkItems": 0,
+    "checkItemsChecked": 0,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "attachments": 0,
+    "description": true,
+    "due": null,
+    "dueComplete": false,
+    "start": null
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "dueComplete": false,
+    "dateLastActivity": "2024-01-28T01:00:37.331Z",
+    "desc": "Git y GitHub son herramientas muy útiles para cualquier desarrollador, por lo que deberías acostumbrarte a trabajar con ellas.\n\nEn este primer desafío queremos proponerte que el primer paso a realizar sea la creación de este repositorio en GitHub, aunque aún no hayas desarrollado ningún código, lo importante es que tengas al menos una carpeta específica para tu proyecto. y puedes actualizarlo gradualmente. El siguiente material te ayudará con esta actividad:\n\n- https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Configurando-Git-por-primera-vez\n- https://www.youtube.com/watch?v=bhKkeOMysuw\n- https://developer.mozilla.org/es/docs/Learn/Common_questions/Using_Github_pages",
+    "descData": {
+    "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": "emanuelgauna+2zblj316gtenw3ydn0s+31uc67c53xpwck188zo+05o5asxhio@boards.trello.com",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "idChecklists": [],
+    "idLabels": [
+    "65b065a9042c118cda5e10bf"
+    ],
+    "idList": "65b065a9042c118cda5e0fde",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "65a86696465758164e598d08",
+    "idShort": 2,
+    "idAttachmentCover": null,
+    "labels": [
+    {
+    "id": "65b065a9042c118cda5e10bf",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "name": "Git/GitHub",
+    "color": "yellow",
+    "uses": 2
+    }
+    ],
+    "limits": {
+    "attachments": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 1000,
+    "warnAt": 800
+    }
+    },
+    "checklists": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 500,
+    "warnAt": 400
+    }
+    },
+    "stickers": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 70,
+    "warnAt": 56
+    }
+    }
+    },
+    "locationName": null,
+    "manualCoverAttachment": false,
+    "name": "Crear el repositorio de tu proyecto en GitHub",
+    "nodeId": "ari:cloud:trello::card/workspace/65a86696465758164e598d08/65b065a9042c118cda5e1084",
+    "pos": 33791.484375,
+    "shortLink": "ucOiQfs9",
+    "shortUrl": "https://trello.com/c/ucOiQfs9",
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/ucOiQfs9/2-crear-el-repositorio-de-tu-proyecto-en-github",
+    "cover": {
+    "idAttachment": null,
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [],
+    "pluginData": [],
+    "customFieldItems": []
+    },
+    {
+    "id": "65b065a9042c118cda5e1075",
+    "address": null,
+    "badges": {
+    "attachmentsByType": {
+    "trello": {
+    "board": 0,
+    "card": 0
+    }
+    },
+    "location": false,
+    "votes": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false,
+    "fogbugz": "",
+    "checkItems": 6,
+    "checkItemsChecked": 6,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "attachments": 0,
+    "description": true,
+    "due": null,
+    "dueComplete": false,
+    "start": null
+    },
+    "checkItemStates": [
+    {
+    "idCheckItem": "65b065aa042c118cda5e1317",
+    "state": "complete"
+    },
+    {
+    "idCheckItem": "65b065aa042c118cda5e1318",
+    "state": "complete"
+    },
+    {
+    "idCheckItem": "65b065aa042c118cda5e1319",
+    "state": "complete"
+    },
+    {
+    "idCheckItem": "65b065aa042c118cda5e131a",
+    "state": "complete"
+    },
+    {
+    "idCheckItem": "65b065aa042c118cda5e131b",
+    "state": "complete"
+    },
+    {
+    "idCheckItem": "65b065aa042c118cda5e131c",
+    "state": "complete"
+    }
+    ],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "dueComplete": false,
+    "dateLastActivity": "2024-01-28T01:00:29.301Z",
+    "desc": "Para realizar la entrega formal de tu desafío debes realizar los pasos que mostramos en el siguiente checklist.",
+    "descData": {
+    "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": "emanuelgauna+2zblj316gtenw3ydn0s+31uc67c53xpwck188z9+07x5drpt9f@boards.trello.com",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "idChecklists": [
+    "65b065a9042c118cda5e107d"
+    ],
+    "idLabels": [
+    "65b065a9042c118cda5e10c5",
+    "65b065a9042c118cda5e10bf"
+    ],
+    "idList": "65b065a9042c118cda5e0fde",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "65a86696465758164e598d08",
+    "idShort": 5,
+    "idAttachmentCover": null,
+    "labels": [
+    {
+    "id": "65b065a9042c118cda5e10c5",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "name": "Entrega de proyecto",
+    "color": "red",
+    "uses": 1
+    },
+    {
+    "id": "65b065a9042c118cda5e10bf",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "name": "Git/GitHub",
+    "color": "yellow",
+    "uses": 2
+    }
+    ],
+    "limits": {
+    "attachments": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 1000,
+    "warnAt": 800
+    }
+    },
+    "checklists": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 500,
+    "warnAt": 400
+    }
+    },
+    "stickers": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 70,
+    "warnAt": 56
+    }
+    }
+    },
+    "locationName": null,
+    "manualCoverAttachment": false,
+    "name": "Entrega del desafío",
+    "nodeId": "ari:cloud:trello::card/workspace/65a86696465758164e598d08/65b065a9042c118cda5e1075",
+    "pos": 34815.46875,
+    "shortLink": "SJD3rJy6",
+    "shortUrl": "https://trello.com/c/SJD3rJy6",
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/SJD3rJy6/5-entrega-del-desaf%C3%ADo",
+    "cover": {
+    "idAttachment": null,
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [],
+    "pluginData": [],
+    "customFieldItems": []
+    },
+    {
+    "id": "65b065a9042c118cda5e10a0",
+    "address": null,
+    "badges": {
+    "attachmentsByType": {
+    "trello": {
+    "board": 0,
+    "card": 0
+    }
+    },
+    "location": false,
+    "votes": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false,
+    "fogbugz": "",
+    "checkItems": 0,
+    "checkItemsChecked": 0,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "attachments": 0,
+    "description": true,
+    "due": null,
+    "dueComplete": false,
+    "start": null
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "dueComplete": false,
+    "dateLastActivity": "2024-01-28T00:45:06.947Z",
+    "desc": "Desencripta nuestro mensaje secreto! \n\nfenterlimescimesdaidenters poberr enternfrenterntair enterstenter dentersaifimesober y haibenterrlober cobernclufatimesdober cobern enterximestober!",
+    "descData": {
+    "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": "emanuelgauna+2zblj316gtenw3ydn0s+31uc67c53xpwck1890g+0t8vad42sl@boards.trello.com",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "idChecklists": [],
+    "idLabels": [],
+    "idList": "65b065a9042c118cda5e0fde",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "65a86696465758164e598d08",
+    "idShort": 18,
+    "idAttachmentCover": null,
+    "labels": [],
+    "limits": {
+    "attachments": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 1000,
+    "warnAt": 800
+    }
+    },
+    "checklists": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 500,
+    "warnAt": 400
+    }
+    },
+    "stickers": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 70,
+    "warnAt": 56
+    }
+    }
+    },
+    "locationName": null,
+    "manualCoverAttachment": false,
+    "name": "Mensaje secreto!",
+    "nodeId": "ari:cloud:trello::card/workspace/65a86696465758164e598d08/65b065a9042c118cda5e10a0",
+    "pos": 36863.4375,
+    "shortLink": "xasJhZ3d",
+    "shortUrl": "https://trello.com/c/xasJhZ3d",
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/xasJhZ3d/18-mensaje-secreto",
+    "cover": {
+    "idAttachment": null,
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [],
+    "pluginData": [],
+    "customFieldItems": []
+    },
+    {
+    "id": "65b065a9042c118cda5e1095",
+    "address": null,
+    "badges": {
+    "attachmentsByType": {
+    "trello": {
+    "board": 0,
+    "card": 0
+    }
+    },
+    "location": false,
+    "votes": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false,
+    "fogbugz": "",
+    "checkItems": 0,
+    "checkItemsChecked": 0,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "attachments": 0,
+    "description": true,
+    "due": null,
+    "dueComplete": false,
+    "start": null
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "dueComplete": false,
+    "dateLastActivity": "2024-01-28T00:44:55.384Z",
+    "desc": "Separamos algunos materiales de Alura (como cursos y artículos que pueden ayudarte al momento de temer alguna duda teórica.\n\nCursos\n---------------------------------------------------------------------------------------\nhttps://app.aluracursos.com/course/logica-de-programacion-primeros-pasos\nhttps://app.aluracursos.com/course/logica-de-programacion-conceptos-primordiales\nhttps://app.aluracursos.com/course/git-github-control-version\n- https://www.aluracursos.com/curso-online-html5-css3-primera-pagina-web\n- https://www.aluracursos.com/curso-online-html5-css3-posicionamiento-listas-navegacion\n- https://www.aluracursos.com/curso-online-html5-css3-formularios-tablas\n- https://www.aluracursos.com/curso-online-html5-css3-avanzando-css\n\nArtículos\n---------------------------------------------------------------------------------------\nhttps://www.aluracursos.com/blog/guia-de-unidades-en-css\nhttps://www.aluracursos.com/blog/centrar-un-elemento-con-css\nhttps://www.aluracursos.com/blog/capturando-valor-del-input-introduccion-a-los-selectores\nhttps://www.aluracursos.com/blog/html-css-javascript-cuales-son-las-diferencias\nhttps://www.aluracursos.com/blog/git-y-github-que-son-y-primeros-pasos\n\n**Sección Git y GitHub**\n- https://www.aluracursos.com/blog/comenzando-con-git\n- https://www.aluracursos.com/blog/iniciando-repositorio-con-git?utm_source=gnarus&utm_medium=timeline\n- https://www.aluracursos.com/blog/clonando-un-repositorio-remoto?utm_source=gnarus&utm_medium=timeline\n- https://www.aluracursos.com/blog/creando-repositorio-remoto-en-github?utm_source=gnarus&utm_medium=timeline\n\nAlura +\n---------------------------------------------------------------------------------------\n- https://www.youtube.com/watch?v=3W983Q2NzRI\n- https://www.youtube.com/watch?v=PztCEdIJITY\n- https://www.youtube.com/watch?v=UuAX5azcvDQ\n- https://www.youtube.com/watch?v=-LmFK6skG7s&t=3s\n\n",
+    "descData": {
+    "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": "emanuelgauna+2zblj316gtenw3ydn0s+31uc67c53xpwck18905+2r5ul9acp6@boards.trello.com",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "idChecklists": [],
+    "idLabels": [],
+    "idList": "65b065a9042c118cda5e0fde",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "65a86696465758164e598d08",
+    "idShort": 11,
+    "idAttachmentCover": null,
+    "labels": [],
+    "limits": {
+    "attachments": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 1000,
+    "warnAt": 800
+    }
+    },
+    "checklists": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 500,
+    "warnAt": 400
+    }
+    },
+    "stickers": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 70,
+    "warnAt": 56
+    }
+    }
+    },
+    "locationName": null,
+    "manualCoverAttachment": true,
+    "name": "Para saber más: cursos, artículos",
+    "nodeId": "ari:cloud:trello::card/workspace/65a86696465758164e598d08/65b065a9042c118cda5e1095",
+    "pos": 40959.375,
+    "shortLink": "Fhvj5YJp",
+    "shortUrl": "https://trello.com/c/Fhvj5YJp",
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/Fhvj5YJp/11-para-saber-m%C3%A1s-cursos-art%C3%ADculos",
+    "cover": {
+    "idAttachment": null,
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [],
+    "pluginData": [],
+    "customFieldItems": []
+    },
+    {
+    "id": "65b065a9042c118cda5e1097",
+    "address": null,
+    "badges": {
+    "attachmentsByType": {
+    "trello": {
+    "board": 0,
+    "card": 0
+    }
+    },
+    "location": false,
+    "votes": 0,
+    "viewingMemberVoted": false,
+    "subscribed": true,
+    "fogbugz": "",
+    "checkItems": 0,
+    "checkItemsChecked": 0,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "attachments": 0,
+    "description": true,
+    "due": null,
+    "dueComplete": false,
+    "start": null
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "dueComplete": false,
+    "dateLastActivity": "2024-01-28T00:44:50.063Z",
+    "desc": "¡Bienvenidas y bienvenidos a nuestro primer desafío!\n\nDurante estas cuatro semanas, vamos a trabajar en una aplicación que encripta textos, así podrás intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada.\n\nLas \"llaves\" de encriptación que utilizaremos son las siguientes:\n\n`La letra \"e\" es convertida para \"enter\"`\n`La letra \"i\" es convertida para \"imes\"`\n`La letra \"a\" es convertida para \"ai\"`\n`La letra \"o\" es convertida para \"ober\"`\n`La letra \"u\" es convertida para \"ufat\"`\n\n**Requisitos:**\n\n- Debe funcionar solo con letras minúsculas\n- No deben ser utilizados letras con acentos ni caracteres especiales\n- Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original.\n\nPor ejemplo:\n`\"gato\" => \"gaitober\"`\n`gaitober\" => \"gato\"`\n\n- La página debe tener campos para\n  inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre as dos opciones.\n- El resultado debe ser mostrado en la pantalla.\n\n**Extras:**\n\n- Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del `ctrl+C` o de la opción \"copiar\" del menú de las aplicaciones.\n\nTenemos un periodo de tiempo de cuatro semanas para desarrollar el proyecto y vamos a trabajar con el sistema ágil de desarrollo, utilizando el Trello de la siguiente forma:\n\n1. La columna **Listos para iniciar** presenta las tarjetas con elementos que aun no fueron desarrollados.\n2. En la columna **En Desarrollo** estarán los elementos que estés desarrollando en el momento. Al iniciar una tarea, podrás mover la tarjeta que contiene dicha tarea para esta columna.\n3. En la columna **Pausado** estarán los elementos que comenzaste a desarrollar, pero necesitaste parar por algún motivo.\n4. Por fin, en la columna **Concluido** estarán los elementos ya concluidos.\n\nEl Trello es una herramienta de uso individual para que puedas controlar el progreso de tus actividades, pero no será evaluada.\n\nBuen proyecto!",
+    "descData": {
+    "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": "emanuelgauna+2zblj316gtenw3ydn0s+31uc67c53xpwck18907+15jc4d7dxv@boards.trello.com",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "idChecklists": [],
+    "idLabels": [],
+    "idList": "65b065a9042c118cda5e0fde",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "65a86696465758164e598d08",
+    "idShort": 12,
+    "idAttachmentCover": null,
+    "labels": [],
+    "limits": {
+    "attachments": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 1000,
+    "warnAt": 800
+    }
+    },
+    "checklists": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 500,
+    "warnAt": 400
+    }
+    },
+    "stickers": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 70,
+    "warnAt": 56
+    }
+    }
+    },
+    "locationName": null,
+    "manualCoverAttachment": true,
+    "name": "Sobre el desafío",
+    "nodeId": "ari:cloud:trello::card/workspace/65a86696465758164e598d08/65b065a9042c118cda5e1097",
+    "pos": 49151.25,
+    "shortLink": "orBrv6of",
+    "shortUrl": "https://trello.com/c/orBrv6of",
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": true,
+    "url": "https://trello.com/c/orBrv6of/12-sobre-el-desaf%C3%ADo",
+    "cover": {
+    "idAttachment": null,
+    "color": "green",
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "light",
+    "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [],
+    "pluginData": [],
+    "customFieldItems": []
+    },
+    {
+    "id": "65b065a9042c118cda5e108f",
+    "address": null,
+    "badges": {
+    "attachmentsByType": {
+    "trello": {
+    "board": 0,
+    "card": 0
+    }
+    },
+    "location": false,
+    "votes": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false,
+    "fogbugz": "",
+    "checkItems": 0,
+    "checkItemsChecked": 0,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "attachments": 1,
+    "description": false,
+    "due": null,
+    "dueComplete": false,
+    "start": null
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "dueComplete": false,
+    "dateLastActivity": "2024-01-24T01:19:38.870Z",
+    "desc": "",
+    "descData": null,
+    "due": null,
+    "dueReminder": null,
+    "email": "emanuelgauna+2zblj316gtenw3ydn0s+31uc67c53xpwck188zz+1sc3qugk2z@boards.trello.com",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "idChecklists": [],
+    "idLabels": [],
+    "idList": "65b065a9042c118cda5e0fde",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "65a86696465758164e598d08",
+    "idShort": 8,
+    "idAttachmentCover": "65b065aa042c118cda5e12d3",
+    "labels": [],
+    "limits": {
+    "attachments": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 1000,
+    "warnAt": 800
+    }
+    },
+    "checklists": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 500,
+    "warnAt": 400
+    }
+    },
+    "stickers": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 70,
+    "warnAt": 56
+    }
+    }
+    },
+    "locationName": null,
+    "manualCoverAttachment": true,
+    "name": ".",
+    "nodeId": "ari:cloud:trello::card/workspace/65a86696465758164e598d08/65b065a9042c118cda5e108f",
+    "pos": 65535,
+    "shortLink": "U1vh8znr",
+    "shortUrl": "https://trello.com/c/U1vh8znr",
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/U1vh8znr/8-untitled",
+    "cover": {
+    "idAttachment": "65b065aa042c118cda5e12d3",
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "scaled": [
+    {
+    "_id": "65b065aa042c118cda5e12d5",
+    "id": "65b065aa042c118cda5e12d5",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108f/attachments/65b065aa042c118cda5e12d3/previews/65b065aa042c118cda5e12d5/download/concluido-es.png",
+    "bytes": 1206,
+    "height": 50,
+    "width": 70
+    },
+    {
+    "_id": "65b065aa042c118cda5e12d7",
+    "id": "65b065aa042c118cda5e12d7",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108f/attachments/65b065aa042c118cda5e12d3/previews/65b065aa042c118cda5e12d7/download/concluido-es.png",
+    "bytes": 2922,
+    "height": 53,
+    "width": 150
+    },
+    {
+    "_id": "65b065aa042c118cda5e12d6",
+    "id": "65b065aa042c118cda5e12d6",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108f/attachments/65b065aa042c118cda5e12d3/previews/65b065aa042c118cda5e12d6/download/concluido-es.png",
+    "bytes": 5368,
+    "height": 150,
+    "width": 250
+    },
+    {
+    "_id": "65b065aa042c118cda5e12d8",
+    "id": "65b065aa042c118cda5e12d8",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108f/attachments/65b065aa042c118cda5e12d3/previews/65b065aa042c118cda5e12d8/download/concluido-es.png",
+    "bytes": 6128,
+    "height": 106,
+    "width": 300
+    },
+    {
+    "_id": "65b065aa042c118cda5e12d9",
+    "id": "65b065aa042c118cda5e12d9",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108f/attachments/65b065aa042c118cda5e12d3/previews/65b065aa042c118cda5e12d9/download/concluido-es.png",
+    "bytes": 12327,
+    "height": 211,
+    "width": 600
+    },
+    {
+    "_id": "65b065aa042c118cda5e12da",
+    "id": "65b065aa042c118cda5e12da",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108f/attachments/65b065aa042c118cda5e12d3/previews/65b065aa042c118cda5e12da/download/concluido-es.png",
+    "bytes": 26723,
+    "height": 422,
+    "width": 1200
+    },
+    {
+    "_id": "65b065aa042c118cda5e12db",
+    "id": "65b065aa042c118cda5e12db",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108f/attachments/65b065aa042c118cda5e12d3/previews/65b065aa042c118cda5e12db/download/concluido-es.png",
+    "bytes": 71291,
+    "height": 1055,
+    "width": 3000
+    }
+    ],
+    "edgeColor": "#041c3c",
+    "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [
+    {
+    "id": "65b065aa042c118cda5e12d3",
+    "bytes": 71291,
+    "date": "2021-09-13T19:23:40.466Z",
+    "edgeColor": "#041c3c",
+    "idMember": "65b065aa042c118cda5e12d4",
+    "isUpload": true,
+    "mimeType": "image/png",
+    "name": "concluido-es.png",
+    "previews": [
+    {
+    "_id": "65b065aa042c118cda5e12d5",
+    "id": "65b065aa042c118cda5e12d5",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108f/attachments/65b065aa042c118cda5e12d3/previews/65b065aa042c118cda5e12d5/download/concluido-es.png",
+    "bytes": 1206,
+    "height": 50,
+    "width": 70
+    },
+    {
+    "_id": "65b065aa042c118cda5e12d6",
+    "id": "65b065aa042c118cda5e12d6",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108f/attachments/65b065aa042c118cda5e12d3/previews/65b065aa042c118cda5e12d6/download/concluido-es.png",
+    "bytes": 5368,
+    "height": 150,
+    "width": 250
+    },
+    {
+    "_id": "65b065aa042c118cda5e12d7",
+    "id": "65b065aa042c118cda5e12d7",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108f/attachments/65b065aa042c118cda5e12d3/previews/65b065aa042c118cda5e12d7/download/concluido-es.png",
+    "bytes": 2922,
+    "height": 53,
+    "width": 150
+    },
+    {
+    "_id": "65b065aa042c118cda5e12d8",
+    "id": "65b065aa042c118cda5e12d8",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108f/attachments/65b065aa042c118cda5e12d3/previews/65b065aa042c118cda5e12d8/download/concluido-es.png",
+    "bytes": 6128,
+    "height": 106,
+    "width": 300
+    },
+    {
+    "_id": "65b065aa042c118cda5e12d9",
+    "id": "65b065aa042c118cda5e12d9",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108f/attachments/65b065aa042c118cda5e12d3/previews/65b065aa042c118cda5e12d9/download/concluido-es.png",
+    "bytes": 12327,
+    "height": 211,
+    "width": 600
+    },
+    {
+    "_id": "65b065aa042c118cda5e12da",
+    "id": "65b065aa042c118cda5e12da",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108f/attachments/65b065aa042c118cda5e12d3/previews/65b065aa042c118cda5e12da/download/concluido-es.png",
+    "bytes": 26723,
+    "height": 422,
+    "width": 1200
+    },
+    {
+    "_id": "65b065aa042c118cda5e12db",
+    "id": "65b065aa042c118cda5e12db",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108f/attachments/65b065aa042c118cda5e12d3/previews/65b065aa042c118cda5e12db/download/concluido-es.png",
+    "bytes": 71291,
+    "height": 1055,
+    "width": 3000
+    }
+    ],
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108f/attachments/65b065aa042c118cda5e12d3/download/concluido-es.png",
+    "pos": 16384,
+    "fileName": "concluido-es.png"
+    }
+    ],
+    "pluginData": [],
+    "customFieldItems": []
+    },
+    {
+    "id": "65b065a9042c118cda5e1086",
+    "address": null,
+    "badges": {
+    "attachmentsByType": {
+    "trello": {
+    "board": 0,
+    "card": 0
+    }
+    },
+    "location": false,
+    "votes": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false,
+    "fogbugz": "",
+    "checkItems": 0,
+    "checkItemsChecked": 0,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "attachments": 1,
+    "description": true,
+    "due": null,
+    "dueComplete": false,
+    "start": null
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "dueComplete": false,
+    "dateLastActivity": "2024-01-24T20:11:43.009Z",
+    "desc": "Plantilla propuesta para la implementación de este desafío, recuerda que puedes usar CSS para modificar colores y fuentes, adicionar bordes y hasta hacer animaciones! Por ejemplo:\n\n-Cambiar la fuente, el tamaño y el color del título;\n-Adicionar un color, degradado o imagen como fondo de tu sitio web;\n-Cambiar estilos, colores y bordes de los botones, explotar tu creatividad o puedes replicar exactamente el mismo diseño presentado, todo quedará a tu criterio.\n",
+    "descData": {
+    "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": "emanuelgauna+2zblj316gtenw3ydn0s+31uc67c53xpwck188zq+26ghivva01@boards.trello.com",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "idChecklists": [],
+    "idLabels": [
+    "65b065a9042c118cda5e10c2"
+    ],
+    "idList": "65b065a9042c118cda5e0fde",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "65a86696465758164e598d08",
+    "idShort": 3,
+    "idAttachmentCover": null,
+    "labels": [
+    {
+    "id": "65b065a9042c118cda5e10c2",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "name": "Modelo Figma",
+    "color": "orange",
+    "uses": 1
+    }
+    ],
+    "limits": {
+    "attachments": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 1000,
+    "warnAt": 800
+    }
+    },
+    "checklists": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 500,
+    "warnAt": 400
+    }
+    },
+    "stickers": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 70,
+    "warnAt": 56
+    }
+    }
+    },
+    "locationName": null,
+    "manualCoverAttachment": false,
+    "name": "Modelo Figma",
+    "nodeId": "ari:cloud:trello::card/workspace/65a86696465758164e598d08/65b065a9042c118cda5e1086",
+    "pos": 77823,
+    "shortLink": "Gh9xJq1r",
+    "shortUrl": "https://trello.com/c/Gh9xJq1r",
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/Gh9xJq1r/3-modelo-figma",
+    "cover": {
+    "idAttachment": null,
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [
+    {
+    "id": "65b065aa042c118cda5e12e5",
+    "bytes": null,
+    "date": "2022-03-07T14:48:10.613Z",
+    "edgeColor": null,
+    "idMember": "65b065aa042c118cda5e12e6",
+    "isUpload": false,
+    "mimeType": "",
+    "name": "Modelo Figma",
+    "previews": [],
+    "url": "https://www.figma.com/file/trP3p5nEh7XUyB3n2bomjP/Alura-Challenge---Desaf%C3%ADo-1---L%C3%B3gica?node-id=0%3A1",
+    "pos": 16384,
+    "fileName": "Alura-Challenge---Desaf%C3%ADo-1---L%C3%B3gica"
+    }
+    ],
+    "pluginData": [],
+    "customFieldItems": []
+    },
+    {
+    "id": "65b065a9042c118cda5e1072",
+    "address": null,
+    "badges": {
+    "attachmentsByType": {
+    "trello": {
+    "board": 0,
+    "card": 1
+    }
+    },
+    "location": false,
+    "votes": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false,
+    "fogbugz": "",
+    "checkItems": 5,
+    "checkItemsChecked": 5,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "attachments": 2,
+    "description": true,
+    "due": null,
+    "dueComplete": false,
+    "start": null
+    },
+    "checkItemStates": [
+    {
+    "idCheckItem": "65b065aa042c118cda5e132b",
+    "state": "complete"
+    },
+    {
+    "idCheckItem": "65b065aa042c118cda5e132c",
+    "state": "complete"
+    },
+    {
+    "idCheckItem": "65b065aa042c118cda5e132d",
+    "state": "complete"
+    },
+    {
+    "idCheckItem": "65b065aa042c118cda5e132e",
+    "state": "complete"
+    },
+    {
+    "idCheckItem": "65b065aa042c118cda5e132f",
+    "state": "complete"
+    }
+    ],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "dueComplete": false,
+    "dateLastActivity": "2024-01-28T00:39:56.272Z",
+    "desc": "# # Hacer desencriptación\n\nUtilice  JavaScript y todo lo que aprendió en las clases de lógica de programación para crear la **función de desencriptación**. Siga los pasos descritos abajo para saber lo que es necesario hacer.\n\n> Importante! Las reglas de  encriptación están especificadas en la tarjeta `Sobre el desafío!`",
+    "descData": {
+    "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": "emanuelgauna+2zblj316gtenw3ydn0s+31uc67c53xpwck188z6+009cxmjmes@boards.trello.com",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "idChecklists": [
+    "65b065a9042c118cda5e107a"
+    ],
+    "idLabels": [
+    "65b065a9042c118cda5e10a7"
+    ],
+    "idList": "65b065a9042c118cda5e0fde",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "65a86696465758164e598d08",
+    "idShort": 15,
+    "idAttachmentCover": null,
+    "labels": [
+    {
+    "id": "65b065a9042c118cda5e10a7",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "name": "JavaScript",
+    "color": "black",
+    "uses": 3
+    }
+    ],
+    "limits": {
+    "attachments": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 1000,
+    "warnAt": 800
+    }
+    },
+    "checklists": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 500,
+    "warnAt": 400
+    }
+    },
+    "stickers": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 70,
+    "warnAt": 56
+    }
+    }
+    },
+    "locationName": null,
+    "manualCoverAttachment": true,
+    "name": "Desencriptar/Decodificar",
+    "nodeId": "ari:cloud:trello::card/workspace/65a86696465758164e598d08/65b065a9042c118cda5e1072",
+    "pos": 83967,
+    "shortLink": "rIYM181B",
+    "shortUrl": "https://trello.com/c/rIYM181B",
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/rIYM181B/15-desencriptar-decodificar",
+    "cover": {
+    "idAttachment": null,
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [
+    {
+    "id": "65b065aa042c118cda5e12a6",
+    "bytes": null,
+    "date": "2021-09-13T19:53:46.184Z",
+    "edgeColor": null,
+    "idMember": "65b065aa042c118cda5e12a7",
+    "isUpload": false,
+    "mimeType": "",
+    "name": "https://trello.com/c/AoIzWTME/7-sobre-el-desaf%C3%ADo",
+    "previews": [],
+    "url": "https://trello.com/c/AoIzWTME/7-sobre-el-desaf%C3%ADo",
+    "pos": 16384,
+    "fileName": "7-sobre-el-desaf%C3%ADo"
+    },
+    {
+    "id": "65b065aa042c118cda5e12a8",
+    "bytes": 1436,
+    "date": "2022-03-07T15:06:32.942Z",
+    "edgeColor": "#f4f4fc",
+    "idMember": "65b065aa042c118cda5e12a9",
+    "isUpload": true,
+    "mimeType": "image/png",
+    "name": "btn-des.png",
+    "previews": [
+    {
+    "_id": "65b065aa042c118cda5e12aa",
+    "id": "65b065aa042c118cda5e12aa",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1072/attachments/65b065aa042c118cda5e12a8/previews/65b065aa042c118cda5e12aa/download/btn-des.png",
+    "bytes": 939,
+    "height": 50,
+    "width": 70
+    },
+    {
+    "_id": "65b065aa042c118cda5e12ab",
+    "id": "65b065aa042c118cda5e12ab",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1072/attachments/65b065aa042c118cda5e12a8/previews/65b065aa042c118cda5e12ab/download/btn-des.png",
+    "bytes": 1864,
+    "height": 150,
+    "width": 250
+    },
+    {
+    "_id": "65b065aa042c118cda5e12ac",
+    "id": "65b065aa042c118cda5e12ac",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1072/attachments/65b065aa042c118cda5e12a8/previews/65b065aa042c118cda5e12ac/download/btn-des.png",
+    "bytes": 2172,
+    "height": 44,
+    "width": 150
+    },
+    {
+    "_id": "65b065aa042c118cda5e12ad",
+    "id": "65b065aa042c118cda5e12ad",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1072/attachments/65b065aa042c118cda5e12a8/previews/65b065aa042c118cda5e12ad/download/btn-des.png",
+    "bytes": 1601,
+    "height": 51,
+    "width": 174
+    },
+    {
+    "_id": "65b065aa042c118cda5e12ae",
+    "id": "65b065aa042c118cda5e12ae",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1072/attachments/65b065aa042c118cda5e12a8/previews/65b065aa042c118cda5e12ae/download/btn-des.png",
+    "bytes": 1436,
+    "height": 51,
+    "width": 174
+    }
+    ],
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1072/attachments/65b065aa042c118cda5e12a8/download/btn-des.png",
+    "pos": 32768,
+    "fileName": "btn-des.png"
+    }
+    ],
+    "pluginData": [],
+    "customFieldItems": []
+    },
+    {
+    "id": "65b065a9042c118cda5e109a",
+    "address": null,
+    "badges": {
+    "attachmentsByType": {
+    "trello": {
+    "board": 0,
+    "card": 0
+    }
+    },
+    "location": false,
+    "votes": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false,
+    "fogbugz": "",
+    "checkItems": 0,
+    "checkItemsChecked": 0,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "attachments": 0,
+    "description": true,
+    "due": null,
+    "dueComplete": false,
+    "start": null
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "dueComplete": false,
+    "dateLastActivity": "2024-01-24T20:11:36.208Z",
+    "desc": "# Elementos principales de la página\n\n- Título de su sitio web\n- Campo para el texto que va a ser encriptado/desencriptado\n- Un botón para encriptar\n- Un botón para desencriptar\n- Área para mostrar el texto encriptado/desencriptado.\n\n# Extra!\nUn rodapie  con los datos de la persona que desarrolló el sitio web!",
+    "descData": {
+    "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": "emanuelgauna+2zblj316gtenw3ydn0s+31uc67c53xpwck1890a+15fgjbbpak@boards.trello.com",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "idChecklists": [],
+    "idLabels": [
+    "65b065a9042c118cda5e10b3"
+    ],
+    "idList": "65b065a9042c118cda5e0fde",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "65a86696465758164e598d08",
+    "idShort": 14,
+    "idAttachmentCover": null,
+    "labels": [
+    {
+    "id": "65b065a9042c118cda5e10b3",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "name": "HTML",
+    "color": "purple",
+    "uses": 4
+    }
+    ],
+    "limits": {
+    "attachments": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 1000,
+    "warnAt": 800
+    }
+    },
+    "checklists": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 500,
+    "warnAt": 400
+    }
+    },
+    "stickers": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 70,
+    "warnAt": 56
+    }
+    }
+    },
+    "locationName": null,
+    "manualCoverAttachment": false,
+    "name": "Elementos de la página",
+    "nodeId": "ari:cloud:trello::card/workspace/65a86696465758164e598d08/65b065a9042c118cda5e109a",
+    "pos": 90111,
+    "shortLink": "Vv8Z1P6r",
+    "shortUrl": "https://trello.com/c/Vv8Z1P6r",
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/Vv8Z1P6r/14-elementos-de-la-p%C3%A1gina",
+    "cover": {
+    "idAttachment": null,
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [],
+    "pluginData": [],
+    "customFieldItems": []
+    },
+    {
+    "id": "65b065a9042c118cda5e1074",
+    "address": null,
+    "badges": {
+    "attachmentsByType": {
+    "trello": {
+    "board": 0,
+    "card": 0
+    }
+    },
+    "location": false,
+    "votes": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false,
+    "fogbugz": "",
+    "checkItems": 1,
+    "checkItemsChecked": 1,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "attachments": 1,
+    "description": true,
+    "due": null,
+    "dueComplete": false,
+    "start": null
+    },
+    "checkItemStates": [
+    {
+    "idCheckItem": "65b065aa042c118cda5e1326",
+    "state": "complete"
+    }
+    ],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "dueComplete": false,
+    "dateLastActivity": "2024-01-28T00:44:08.522Z",
+    "desc": "Estas actividades son referentes al desafío extra, de agregar un botón para copiar texto.\n\nSi tienes dificultad para la realización de esta tarea los siguientes links pueden ayudarte:\n\\-[documentación de MDN](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Interact_with_the_clipboard \"‌\") sobre como copiar, recortar y pegar datos para  el portapapeles usando JavaScript. Está en inglês, pero puedes usar el recurso del navegador para traducir la página.\n\n- [documentación ](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard_API \"‌\")`Clipboard API`",
+    "descData": {
+    "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": "emanuelgauna+2zblj316gtenw3ydn0s+31uc67c53xpwck188z8+1y84u86e27@boards.trello.com",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "idChecklists": [
+    "65b065a9042c118cda5e107c"
+    ],
+    "idLabels": [
+    "65b065a9042c118cda5e10b3",
+    "65b065a9042c118cda5e10b6"
+    ],
+    "idList": "65b065a9042c118cda5e0fde",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "65a86696465758164e598d08",
+    "idShort": 17,
+    "idAttachmentCover": null,
+    "labels": [
+    {
+    "id": "65b065a9042c118cda5e10b3",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "name": "HTML",
+    "color": "purple",
+    "uses": 4
+    },
+    {
+    "id": "65b065a9042c118cda5e10b6",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "name": "CSS",
+    "color": "blue",
+    "uses": 3
+    }
+    ],
+    "limits": {
+    "attachments": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 1000,
+    "warnAt": 800
+    }
+    },
+    "checklists": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 500,
+    "warnAt": 400
+    }
+    },
+    "stickers": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 70,
+    "warnAt": 56
+    }
+    }
+    },
+    "locationName": null,
+    "manualCoverAttachment": true,
+    "name": "Extra! Botón copiar",
+    "nodeId": "ari:cloud:trello::card/workspace/65a86696465758164e598d08/65b065a9042c118cda5e1074",
+    "pos": 262143,
+    "shortLink": "I37ruMJN",
+    "shortUrl": "https://trello.com/c/I37ruMJN",
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/I37ruMJN/17-extra-bot%C3%B3n-copiar",
+    "cover": {
+    "idAttachment": null,
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [
+    {
+    "id": "65b065aa042c118cda5e129f",
+    "bytes": 1203,
+    "date": "2022-03-07T15:06:49.486Z",
+    "edgeColor": "#fcfcfc",
+    "idMember": "65b065aa042c118cda5e12a0",
+    "isUpload": true,
+    "mimeType": "image/png",
+    "name": "btn-cp.png",
+    "previews": [
+    {
+    "_id": "65b065aa042c118cda5e12a1",
+    "id": "65b065aa042c118cda5e12a1",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1074/attachments/65b065aa042c118cda5e129f/previews/65b065aa042c118cda5e12a1/download/btn-cp.png",
+    "bytes": 758,
+    "height": 50,
+    "width": 70
+    },
+    {
+    "_id": "65b065aa042c118cda5e12a2",
+    "id": "65b065aa042c118cda5e12a2",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1074/attachments/65b065aa042c118cda5e129f/previews/65b065aa042c118cda5e12a2/download/btn-cp.png",
+    "bytes": 1582,
+    "height": 150,
+    "width": 250
+    },
+    {
+    "_id": "65b065aa042c118cda5e12a3",
+    "id": "65b065aa042c118cda5e12a3",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1074/attachments/65b065aa042c118cda5e129f/previews/65b065aa042c118cda5e12a3/download/btn-cp.png",
+    "bytes": 1608,
+    "height": 51,
+    "width": 150
+    },
+    {
+    "_id": "65b065aa042c118cda5e12a4",
+    "id": "65b065aa042c118cda5e12a4",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1074/attachments/65b065aa042c118cda5e129f/previews/65b065aa042c118cda5e12a4/download/btn-cp.png",
+    "bytes": 1392,
+    "height": 60,
+    "width": 178
+    },
+    {
+    "_id": "65b065aa042c118cda5e12a5",
+    "id": "65b065aa042c118cda5e12a5",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1074/attachments/65b065aa042c118cda5e129f/previews/65b065aa042c118cda5e12a5/download/btn-cp.png",
+    "bytes": 1203,
+    "height": 60,
+    "width": 178
+    }
+    ],
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1074/attachments/65b065aa042c118cda5e129f/download/btn-cp.png",
+    "pos": 16384,
+    "fileName": "btn-cp.png"
+    }
+    ],
+    "pluginData": [],
+    "customFieldItems": []
+    },
+    {
+    "id": "65b065a9042c118cda5e108d",
+    "address": null,
+    "badges": {
+    "attachmentsByType": {
+    "trello": {
+    "board": 0,
+    "card": 0
+    }
+    },
+    "location": false,
+    "votes": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false,
+    "fogbugz": "",
+    "checkItems": 0,
+    "checkItemsChecked": 0,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "attachments": 2,
+    "description": true,
+    "due": null,
+    "dueComplete": false,
+    "start": null
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "dueComplete": false,
+    "dateLastActivity": "2024-01-28T00:44:14.711Z",
+    "desc": "En esta sección puedes ocultar y mostrar diferentes elementos dependiendo del estado, comenzarás con una imagen que debe ser substituida por el texto encriptado/desencriptado\n\nEn caso de que necesites ayuda para realizar esta tarea recomendamos leer:\n- https://www.w3schools.com/jsref/prop_style_display.asp\n\n\n",
+    "descData": {
+    "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": "emanuelgauna+2zblj316gtenw3ydn0s+31uc67c53xpwck188zx+0vki4eicei@boards.trello.com",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "idChecklists": [],
+    "idLabels": [
+    "65b065a9042c118cda5e10b3",
+    "65b065a9042c118cda5e10b6"
+    ],
+    "idList": "65b065a9042c118cda5e0fde",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "65a86696465758164e598d08",
+    "idShort": 7,
+    "idAttachmentCover": null,
+    "labels": [
+    {
+    "id": "65b065a9042c118cda5e10b3",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "name": "HTML",
+    "color": "purple",
+    "uses": 4
+    },
+    {
+    "id": "65b065a9042c118cda5e10b6",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "name": "CSS",
+    "color": "blue",
+    "uses": 3
+    }
+    ],
+    "limits": {
+    "attachments": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 1000,
+    "warnAt": 800
+    }
+    },
+    "checklists": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 500,
+    "warnAt": 400
+    }
+    },
+    "stickers": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 70,
+    "warnAt": 56
+    }
+    }
+    },
+    "locationName": null,
+    "manualCoverAttachment": true,
+    "name": "Área para mostrar el texto encriptado/desencriptado.",
+    "nodeId": "ari:cloud:trello::card/workspace/65a86696465758164e598d08/65b065a9042c118cda5e108d",
+    "pos": 294911,
+    "shortLink": "Kt9Z1F9d",
+    "shortUrl": "https://trello.com/c/Kt9Z1F9d",
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/Kt9Z1F9d/7-%C3%A1rea-para-mostrar-el-texto-encriptado-desencriptado",
+    "cover": {
+    "idAttachment": null,
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [
+    {
+    "id": "65b065aa042c118cda5e12e7",
+    "bytes": 24176,
+    "date": "2022-03-07T14:59:04.520Z",
+    "edgeColor": "#f4f4fc",
+    "idMember": "65b065aa042c118cda5e12e8",
+    "isUpload": true,
+    "mimeType": "image/png",
+    "name": "1.png",
+    "previews": [
+    {
+    "_id": "65b065aa042c118cda5e12e9",
+    "id": "65b065aa042c118cda5e12e9",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108d/attachments/65b065aa042c118cda5e12e7/previews/65b065aa042c118cda5e12e9/download/1.png",
+    "bytes": 1362,
+    "height": 50,
+    "width": 70
+    },
+    {
+    "_id": "65b065aa042c118cda5e12ea",
+    "id": "65b065aa042c118cda5e12ea",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108d/attachments/65b065aa042c118cda5e12e7/previews/65b065aa042c118cda5e12ea/download/1.png",
+    "bytes": 5827,
+    "height": 150,
+    "width": 250
+    },
+    {
+    "_id": "65b065aa042c118cda5e12eb",
+    "id": "65b065aa042c118cda5e12eb",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108d/attachments/65b065aa042c118cda5e12e7/previews/65b065aa042c118cda5e12eb/download/1.png",
+    "bytes": 18504,
+    "height": 339,
+    "width": 150
+    },
+    {
+    "_id": "65b065aa042c118cda5e12ec",
+    "id": "65b065aa042c118cda5e12ec",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108d/attachments/65b065aa042c118cda5e12e7/previews/65b065aa042c118cda5e12ec/download/1.png",
+    "bytes": 25081,
+    "height": 495,
+    "width": 219
+    },
+    {
+    "_id": "65b065aa042c118cda5e12ed",
+    "id": "65b065aa042c118cda5e12ed",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108d/attachments/65b065aa042c118cda5e12e7/previews/65b065aa042c118cda5e12ed/download/1.png",
+    "bytes": 24176,
+    "height": 495,
+    "width": 219
+    }
+    ],
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108d/attachments/65b065aa042c118cda5e12e7/download/1.png",
+    "pos": 16384,
+    "fileName": "1.png"
+    },
+    {
+    "id": "65b065aa042c118cda5e12ee",
+    "bytes": 23503,
+    "date": "2022-03-07T14:59:05.341Z",
+    "edgeColor": "#f4f4fc",
+    "idMember": "65b065aa042c118cda5e12ef",
+    "isUpload": true,
+    "mimeType": "image/png",
+    "name": "2.png",
+    "previews": [
+    {
+    "_id": "65b065aa042c118cda5e12f0",
+    "id": "65b065aa042c118cda5e12f0",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108d/attachments/65b065aa042c118cda5e12ee/previews/65b065aa042c118cda5e12f0/download/2.png",
+    "bytes": 1319,
+    "height": 50,
+    "width": 70
+    },
+    {
+    "_id": "65b065aa042c118cda5e12f1",
+    "id": "65b065aa042c118cda5e12f1",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108d/attachments/65b065aa042c118cda5e12ee/previews/65b065aa042c118cda5e12f1/download/2.png",
+    "bytes": 6882,
+    "height": 150,
+    "width": 250
+    },
+    {
+    "_id": "65b065aa042c118cda5e12f2",
+    "id": "65b065aa042c118cda5e12f2",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108d/attachments/65b065aa042c118cda5e12ee/previews/65b065aa042c118cda5e12f2/download/2.png",
+    "bytes": 24941,
+    "height": 347,
+    "width": 150
+    },
+    {
+    "_id": "65b065aa042c118cda5e12f3",
+    "id": "65b065aa042c118cda5e12f3",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108d/attachments/65b065aa042c118cda5e12ee/previews/65b065aa042c118cda5e12f3/download/2.png",
+    "bytes": 25554,
+    "height": 488,
+    "width": 211
+    },
+    {
+    "_id": "65b065aa042c118cda5e12f4",
+    "id": "65b065aa042c118cda5e12f4",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108d/attachments/65b065aa042c118cda5e12ee/previews/65b065aa042c118cda5e12f4/download/2.png",
+    "bytes": 23503,
+    "height": 488,
+    "width": 211
+    }
+    ],
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e108d/attachments/65b065aa042c118cda5e12ee/download/2.png",
+    "pos": 32768,
+    "fileName": "2.png"
+    }
+    ],
+    "pluginData": [],
+    "customFieldItems": []
+    },
+    {
+    "id": "65b065a9042c118cda5e1093",
+    "address": null,
+    "badges": {
+    "attachmentsByType": {
+    "trello": {
+    "board": 0,
+    "card": 0
+    }
+    },
+    "location": false,
+    "votes": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false,
+    "fogbugz": "",
+    "checkItems": 0,
+    "checkItemsChecked": 0,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "attachments": 1,
+    "description": true,
+    "due": null,
+    "dueComplete": false,
+    "start": null
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "dueComplete": false,
+    "dateLastActivity": "2024-01-27T01:28:27.553Z",
+    "desc": "Para la realización de esta parte de nuestro encriptador podemos usar tanto una etiqueta HTML `<input>` o `<textarea>`\n\n- https://developer.mozilla.org/es/docs/Web/HTML/Element/input\n- https://developer.mozilla.org/es/docs/Web/HTML/Element/textarea\n",
+    "descData": {
+    "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": "emanuelgauna+2zblj316gtenw3ydn0s+31uc67c53xpwck18903+2ehuczi32b@boards.trello.com",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "idChecklists": [],
+    "idLabels": [
+    "65b065a9042c118cda5e10b3",
+    "65b065a9042c118cda5e10b6"
+    ],
+    "idList": "65b065a9042c118cda5e0fde",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "65a86696465758164e598d08",
+    "idShort": 10,
+    "idAttachmentCover": null,
+    "labels": [
+    {
+    "id": "65b065a9042c118cda5e10b3",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "name": "HTML",
+    "color": "purple",
+    "uses": 4
+    },
+    {
+    "id": "65b065a9042c118cda5e10b6",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "name": "CSS",
+    "color": "blue",
+    "uses": 3
+    }
+    ],
+    "limits": {
+    "attachments": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 1000,
+    "warnAt": 800
+    }
+    },
+    "checklists": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 500,
+    "warnAt": 400
+    }
+    },
+    "stickers": {
+    "perCard": {
+    "status": "ok",
+    "disableAt": 70,
+    "warnAt": 56
+    }
+    }
+    },
+    "locationName": null,
+    "manualCoverAttachment": true,
+    "name": "Campo para el texto que va a ser encriptado/desencriptado",
+    "nodeId": "ari:cloud:trello::card/workspace/65a86696465758164e598d08/65b065a9042c118cda5e1093",
+    "pos": 327679,
+    "shortLink": "cQn01cit",
+    "shortUrl": "https://trello.com/c/cQn01cit",
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/cQn01cit/10-campo-para-el-texto-que-va-a-ser-encriptado-desencriptado",
+    "cover": {
+    "idAttachment": null,
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [
+    {
+    "id": "65b065aa042c118cda5e12f5",
+    "bytes": 3636,
+    "date": "2022-03-07T15:18:23.656Z",
+    "edgeColor": "#f4f4fc",
+    "idMember": "65b065aa042c118cda5e12f6",
+    "isUpload": true,
+    "mimeType": "image/png",
+    "name": "input.png",
+    "previews": [
+    {
+    "_id": "65b065aa042c118cda5e12f7",
+    "id": "65b065aa042c118cda5e12f7",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1093/attachments/65b065aa042c118cda5e12f5/previews/65b065aa042c118cda5e12f7/download/input.png",
+    "bytes": 642,
+    "height": 50,
+    "width": 70
+    },
+    {
+    "_id": "65b065aa042c118cda5e12f8",
+    "id": "65b065aa042c118cda5e12f8",
+    "scaled": false,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1093/attachments/65b065aa042c118cda5e12f5/previews/65b065aa042c118cda5e12f8/download/input.png",
+    "bytes": 2198,
+    "height": 150,
+    "width": 250
+    },
+    {
+    "_id": "65b065aa042c118cda5e12f9",
+    "id": "65b065aa042c118cda5e12f9",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1093/attachments/65b065aa042c118cda5e12f5/previews/65b065aa042c118cda5e12f9/download/input.png",
+    "bytes": 2055,
+    "height": 149,
+    "width": 150
+    },
+    {
+    "_id": "65b065aa042c118cda5e12fa",
+    "id": "65b065aa042c118cda5e12fa",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1093/attachments/65b065aa042c118cda5e12f5/previews/65b065aa042c118cda5e12fa/download/input.png",
+    "bytes": 5496,
+    "height": 297,
+    "width": 300
+    },
+    {
+    "_id": "65b065aa042c118cda5e12fb",
+    "id": "65b065aa042c118cda5e12fb",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1093/attachments/65b065aa042c118cda5e12f5/previews/65b065aa042c118cda5e12fb/download/input.png",
+    "bytes": 4203,
+    "height": 354,
+    "width": 357
+    },
+    {
+    "_id": "65b065aa042c118cda5e12fc",
+    "id": "65b065aa042c118cda5e12fc",
+    "scaled": true,
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1093/attachments/65b065aa042c118cda5e12f5/previews/65b065aa042c118cda5e12fc/download/input.png",
+    "bytes": 3636,
+    "height": 354,
+    "width": 357
+    }
+    ],
+    "url": "https://trello.com/1/cards/65b065a9042c118cda5e1093/attachments/65b065aa042c118cda5e12f5/download/input.png",
+    "pos": 16384,
+    "fileName": "input.png"
+    }
+    ],
+    "pluginData": [],
+    "customFieldItems": []
+    }
+    ],
+    "labels": [
+    {
+    "id": "65b065a9042c118cda5e10bc",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "name": "",
+    "color": "pink",
+    "uses": 20
+    },
+    {
+    "id": "65b065a9042c118cda5e10b9",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "name": "",
+    "color": "sky",
+    "uses": 9
+    },
+    {
+    "id": "65b065a9042c118cda5e10b3",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "name": "HTML",
+    "color": "purple",
+    "uses": 4
+    },
+    {
+    "id": "65b065a9042c118cda5e10a7",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "name": "JavaScript",
+    "color": "black",
+    "uses": 3
+    },
+    {
+    "id": "65b065a9042c118cda5e10b6",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "name": "CSS",
+    "color": "blue",
+    "uses": 3
+    },
+    {
+    "id": "65b065a9042c118cda5e10bf",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "name": "Git/GitHub",
+    "color": "yellow",
+    "uses": 2
+    },
+    {
+    "id": "65b065a9042c118cda5e10c2",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "name": "Modelo Figma",
+    "color": "orange",
+    "uses": 1
+    },
+    {
+    "id": "65b065a9042c118cda5e10c5",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "name": "Entrega de proyecto",
+    "color": "red",
+    "uses": 1
+    },
+    {
+    "id": "65b065a9042c118cda5e10a4",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "name": "",
+    "color": "green",
+    "uses": 0
+    },
+    {
+    "id": "65b065a9042c118cda5e10ad",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "name": "",
+    "color": "orange",
+    "uses": 0
+    },
+    {
+    "id": "65b065a9042c118cda5e10b0",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "name": "",
+    "color": "red",
+    "uses": 0
+    },
+    {
+    "id": "65b065a9042c118cda5e10aa",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "name": "",
+    "color": "yellow",
+    "uses": 0
+    }
+    ],
+    "lists": [
+    {
+    "id": "65b065a9042c118cda5e0fda",
+    "name": "Herramientas",
+    "closed": false,
+    "color": null,
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "pos": 32767.5,
+    "subscribed": false,
+    "softLimit": null,
+    "creationMethod": null,
+    "idOrganization": "65a86696465758164e598d08",
+    "limits": {
+    "cards": {
+    "openPerList": {
+    "status": "ok",
+    "disableAt": 5000,
+    "warnAt": 4000
+    },
+    "totalPerList": {
+    "status": "ok",
+    "disableAt": 1000000,
+    "warnAt": 800000
+    }
+    }
+    },
+    "nodeId": "ari:cloud:trello::list/workspace/65a86696465758164e598d08/65b065a9042c118cda5e0fda"
+    },
+    {
+    "id": "65b065a9042c118cda5e0fdb",
+    "name": "Backlog",
+    "closed": false,
+    "color": null,
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "pos": 65535,
+    "subscribed": false,
+    "softLimit": null,
+    "creationMethod": null,
+    "idOrganization": "65a86696465758164e598d08",
+    "limits": {
+    "cards": {
+    "openPerList": {
+    "status": "ok",
+    "disableAt": 5000,
+    "warnAt": 4000
+    },
+    "totalPerList": {
+    "status": "ok",
+    "disableAt": 1000000,
+    "warnAt": 800000
+    }
+    }
+    },
+    "nodeId": "ari:cloud:trello::list/workspace/65a86696465758164e598d08/65b065a9042c118cda5e0fdb"
+    },
+    {
+    "id": "65b065a9042c118cda5e0fdc",
+    "name": "En desarrollo",
+    "closed": false,
+    "color": null,
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "pos": 131071,
+    "subscribed": false,
+    "softLimit": null,
+    "creationMethod": null,
+    "idOrganization": "65a86696465758164e598d08",
+    "limits": {
+    "cards": {
+    "openPerList": {
+    "status": "ok",
+    "disableAt": 5000,
+    "warnAt": 4000
+    },
+    "totalPerList": {
+    "status": "ok",
+    "disableAt": 1000000,
+    "warnAt": 800000
+    }
+    }
+    },
+    "nodeId": "ari:cloud:trello::list/workspace/65a86696465758164e598d08/65b065a9042c118cda5e0fdc"
+    },
+    {
+    "id": "65b065a9042c118cda5e0fdd",
+    "name": "Pausado",
+    "closed": false,
+    "color": null,
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "pos": 196607,
+    "subscribed": false,
+    "softLimit": null,
+    "creationMethod": null,
+    "idOrganization": "65a86696465758164e598d08",
+    "limits": {
+    "cards": {
+    "openPerList": {
+    "status": "ok",
+    "disableAt": 5000,
+    "warnAt": 4000
+    },
+    "totalPerList": {
+    "status": "ok",
+    "disableAt": 1000000,
+    "warnAt": 800000
+    }
+    }
+    },
+    "nodeId": "ari:cloud:trello::list/workspace/65a86696465758164e598d08/65b065a9042c118cda5e0fdd"
+    },
+    {
+    "id": "65b065a9042c118cda5e0fde",
+    "name": "Concluido",
+    "closed": false,
+    "color": null,
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "pos": 262143,
+    "subscribed": false,
+    "softLimit": null,
+    "creationMethod": null,
+    "idOrganization": "65a86696465758164e598d08",
+    "limits": {
+    "cards": {
+    "openPerList": {
+    "status": "ok",
+    "disableAt": 5000,
+    "warnAt": 4000
+    },
+    "totalPerList": {
+    "status": "ok",
+    "disableAt": 1000000,
+    "warnAt": 800000
+    }
+    }
+    },
+    "nodeId": "ari:cloud:trello::list/workspace/65a86696465758164e598d08/65b065a9042c118cda5e0fde"
+    }
+    ],
+    "members": [
+    {
+    "id": "635b085784e938017a3cc3cc",
+    "aaId": "635b085359c794184bcaa29b",
+    "activityBlocked": false,
+    "avatarHash": "2d3ae3dc06994ce37c6d586cf40e32d2",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/635b085784e938017a3cc3cc/2d3ae3dc06994ce37c6d586cf40e32d2",
+    "bio": "",
+    "bioData": null,
+    "confirmed": true,
+    "fullName": "emanuel gauna",
+    "idEnterprise": null,
+    "idEnterprisesDeactivated": [],
+    "idMemberReferrer": null,
+    "idPremOrgsAdmin": [],
+    "initials": "EG",
+    "memberType": "normal",
+    "nonPublic": {
+    "fullName": "emanuel gauna",
+    "initials": "EG",
+    "avatarHash": null
+    },
+    "nonPublicAvailable": true,
+    "products": [],
+    "url": "https://trello.com/emanuelgauna",
+    "username": "emanuelgauna",
+    "status": "disconnected"
+    }
+    ],
+    "checklists": [
+    {
+    "id": "65b065a9042c118cda5e107d",
+    "name": "**Proceso para la entrega **",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "idCard": "65b065a9042c118cda5e1075",
+    "pos": 16384,
+    "limits": {
+    "checkItems": {
+    "perChecklist": {
+    "status": "ok",
+    "disableAt": 200,
+    "warnAt": 160
+    }
+    }
+    },
+    "checkItems": [
+    {
+    "id": "65b065aa042c118cda5e1317",
+    "name": "Sube el proyecto a GitHub",
+    "nameData": {
+    "emoji": {}
+    },
+    "pos": 17301,
+    "state": "complete",
+    "due": null,
+    "dueReminder": null,
+    "idMember": "65b065a9042c118cda5e0fdf",
+    "idChecklist": "65b065a9042c118cda5e107d"
+    },
+    {
+    "id": "65b065aa042c118cda5e1318",
+    "name": "Publica en GitHub Pages",
+    "nameData": {
+    "emoji": {}
+    },
+    "pos": 34692,
+    "state": "complete",
+    "due": null,
+    "dueReminder": null,
+    "idMember": "65b065a9042c118cda5e0fdf",
+    "idChecklist": "65b065a9042c118cda5e107d"
+    },
+    {
+    "id": "65b065aa042c118cda5e1319",
+    "name": "Agregar el #challengeonecodificador4 si eres de la Turma 4 de ONE o agregar el #challengeonecodificador5 si eres de la Turma 5 :)",
+    "nameData": {
+    "emoji": {}
+    },
+    "pos": 51481,
+    "state": "complete",
+    "due": null,
+    "dueReminder": null,
+    "idMember": "65b065a9042c118cda5e0fdf",
+    "idChecklist": "65b065a9042c118cda5e107d"
+    },
+    {
+    "id": "65b065aa042c118cda5e131a",
+    "name": "Rellene el formulario de envío https://lp.alura.com.br/alura-latam-entrega-challenge-one-esp con el enlace de GitHub Pages (proyecto publicado)",
+    "nameData": {
+    "emoji": {}
+    },
+    "pos": 68713,
+    "state": "complete",
+    "due": null,
+    "dueReminder": null,
+    "idMember": "65b065a9042c118cda5e0fdf",
+    "idChecklist": "65b065a9042c118cda5e107d"
+    },
+    {
+    "id": "65b065aa042c118cda5e131b",
+    "name": "Revisa tu correo electrónico y obtén tu Badge",
+    "nameData": {
+    "emoji": {}
+    },
+    "pos": 85482,
+    "state": "complete",
+    "due": null,
+    "dueReminder": null,
+    "idMember": "65b065a9042c118cda5e0fdf",
+    "idChecklist": "65b065a9042c118cda5e107d"
+    },
+    {
+    "id": "65b065aa042c118cda5e131c",
+    "name": "Publica un video y/o tu proyecto en Linkedin",
+    "nameData": {
+    "emoji": {}
+    },
+    "pos": 101967,
+    "state": "complete",
+    "due": null,
+    "dueReminder": null,
+    "idMember": "65b065a9042c118cda5e0fdf",
+    "idChecklist": "65b065a9042c118cda5e107d"
+    }
+    ],
+    "creationMethod": null
+    },
+    {
+    "id": "65b065a9042c118cda5e107c",
+    "name": "Checklist",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "idCard": "65b065a9042c118cda5e1074",
+    "pos": 16384,
+    "limits": {
+    "checkItems": {
+    "perChecklist": {
+    "status": "ok",
+    "disableAt": 200,
+    "warnAt": 160
+    }
+    }
+    },
+    "checkItems": [
+    {
+    "id": "65b065aa042c118cda5e1326",
+    "name": "Crear un botón para llamar a la función que copia el texto encriptado o desencriptado",
+    "nameData": {
+    "emoji": {}
+    },
+    "pos": 34344,
+    "state": "complete",
+    "due": null,
+    "dueReminder": null,
+    "idMember": "65b065aa042c118cda5e1325",
+    "idChecklist": "65b065a9042c118cda5e107c"
+    }
+    ],
+    "creationMethod": null
+    },
+    {
+    "id": "65b065a9042c118cda5e107a",
+    "name": "Tarefas",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "idCard": "65b065a9042c118cda5e1072",
+    "pos": 16384,
+    "limits": {
+    "checkItems": {
+    "perChecklist": {
+    "status": "ok",
+    "disableAt": 200,
+    "warnAt": 160
+    }
+    }
+    },
+    "checkItems": [
+    {
+    "id": "65b065aa042c118cda5e132b",
+    "name": "Crear función",
+    "nameData": {
+    "emoji": {}
+    },
+    "pos": 16565,
+    "state": "complete",
+    "due": null,
+    "dueReminder": null,
+    "idMember": "65b065aa042c118cda5e132a",
+    "idChecklist": "65b065a9042c118cda5e107a"
+    },
+    {
+    "id": "65b065aa042c118cda5e132c",
+    "name": "Conectar función a su respectivo botón en el HTML",
+    "nameData": {
+    "emoji": {}
+    },
+    "pos": 33116,
+    "state": "complete",
+    "due": null,
+    "dueReminder": null,
+    "idMember": "65b065aa042c118cda5e132a",
+    "idChecklist": "65b065a9042c118cda5e107a"
+    },
+    {
+    "id": "65b065aa042c118cda5e132d",
+    "name": "Capturar el texto escrito en el campo del input del HTML",
+    "nameData": {
+    "emoji": {}
+    },
+    "pos": 49734,
+    "state": "complete",
+    "due": null,
+    "dueReminder": null,
+    "idMember": "65b065aa042c118cda5e132a",
+    "idChecklist": "65b065a9042c118cda5e107a"
+    },
+    {
+    "id": "65b065aa042c118cda5e132e",
+    "name": "Desarrollar la lógica de la desencriptación",
+    "nameData": {
+    "emoji": {}
+    },
+    "pos": 66467,
+    "state": "complete",
+    "due": null,
+    "dueReminder": null,
+    "idMember": "65b065aa042c118cda5e132a",
+    "idChecklist": "65b065a9042c118cda5e107a"
+    },
+    {
+    "id": "65b065aa042c118cda5e132f",
+    "name": "_Mostrar_ en la pantalla el resultado del texto desencriptado",
+    "nameData": {
+    "emoji": {}
+    },
+    "pos": 83762,
+    "state": "complete",
+    "due": null,
+    "dueReminder": null,
+    "idMember": "65b065aa042c118cda5e132a",
+    "idChecklist": "65b065a9042c118cda5e107a"
+    }
+    ],
+    "creationMethod": null
+    },
+    {
+    "id": "65b065a9042c118cda5e107b",
+    "name": "Tareas",
+    "idBoard": "65b065a9042c118cda5e0fd9",
+    "idCard": "65b065a9042c118cda5e1073",
+    "pos": 16384,
+    "limits": {
+    "checkItems": {
+    "perChecklist": {
+    "status": "ok",
+    "disableAt": 200,
+    "warnAt": 160
+    }
+    }
+    },
+    "checkItems": [
+    {
+    "id": "65b065aa042c118cda5e1337",
+    "name": "Crear función",
+    "nameData": {
+    "emoji": {}
+    },
+    "pos": 16565,
+    "state": "complete",
+    "due": null,
+    "dueReminder": null,
+    "idMember": "65b065aa042c118cda5e132a",
+    "idChecklist": "65b065a9042c118cda5e107b"
+    },
+    {
+    "id": "65b065aa042c118cda5e1338",
+    "name": "Conectar función a su respectivo botón en el HTML",
+    "nameData": {
+    "emoji": {}
+    },
+    "pos": 33116,
+    "state": "complete",
+    "due": null,
+    "dueReminder": null,
+    "idMember": "65b065aa042c118cda5e132a",
+    "idChecklist": "65b065a9042c118cda5e107b"
+    },
+    {
+    "id": "65b065aa042c118cda5e1339",
+    "name": "Capturar el texto escrito en el campo del input del HTML",
+    "nameData": {
+    "emoji": {}
+    },
+    "pos": 49734,
+    "state": "complete",
+    "due": null,
+    "dueReminder": null,
+    "idMember": "65b065aa042c118cda5e132a",
+    "idChecklist": "65b065a9042c118cda5e107b"
+    },
+    {
+    "id": "65b065aa042c118cda5e133a",
+    "name": "Desarrollar la lógica de la encriptación",
+    "nameData": {
+    "emoji": {}
+    },
+    "pos": 66467,
+    "state": "complete",
+    "due": null,
+    "dueReminder": null,
+    "idMember": "65b065aa042c118cda5e132a",
+    "idChecklist": "65b065a9042c118cda5e107b"
+    },
+    {
+    "id": "65b065aa042c118cda5e133b",
+    "name": "_Mostrar_ en la pantalla el resultado del texto encriptado",
+    "nameData": {
+    "emoji": {}
+    },
+    "pos": 83762,
+    "state": "complete",
+    "due": null,
+    "dueReminder": null,
+    "idMember": "65b065aa042c118cda5e132a",
+    "idChecklist": "65b065a9042c118cda5e107b"
+    }
+    ],
+    "creationMethod": null
+    }
+    ],
+    "customFields": [],
+    "memberships": [
+    {
+    "idMember": "635b085784e938017a3cc3cc",
+    "memberType": "admin",
+    "unconfirmed": false,
+    "deactivated": false,
+    "id": "65b065a9042c118cda5e10df"
+    }
+    ],
+    "pluginData": []
+    }
