@@ -30,13 +30,13 @@ li{
     --boton-azul: #0A3871;
     --boton-blanco: white;
     --fondo-mobile: #92BF8E;
-    --fondo-tablet: linear-gradient(rgb(100, 58, 140) , rgb(172, 150, 193));
+    --fondo-tablet: linear-gradient(rgb(58, 94, 140) , rgb(165, 172, 197));
     --fondo-desktop: linear-gradient(#48b43f, #CCFFBD)  ;
     
     /* Tamaño tipografico */
     --titulo: 2rem;
     --subtitulo: 1.5rem;
-    --parrafo: 1.2rem;
+    --parrafo: 1.3rem;
     --span: 1rem;
 }
 body {
@@ -65,12 +65,15 @@ header h1{
 
 p{
     color: #020D1A;
+    font-size: var(--parrafo);
 }
 main{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     text-align: center;
+}div.texto{
+    word-break: break-all;
 }
 div.texto input{
     width: 100%;
@@ -81,6 +84,7 @@ div.texto input{
     padding: 10px ;
     border: none;
     background: var(--fondo-desktop);
+    word-break: break-all;
 }
 div.botones{
     display: flex;
@@ -98,7 +102,7 @@ div.botones .boton:first-child{
     background: var(--boton-azul);
     color:#fff;
 }
-div.botones .boton{
+div.botones .boton , #copiar {
     width: 100%;
     border-radius: var(--bordes);
     height: 70px ;
@@ -108,14 +112,13 @@ div.botones .boton{
     box-shadow: 5px 5px black;
     
 }
-div.botones .boton:hover{
+div.botones .boton:hover , #copiar:hover{
     cursor: pointer;
     box-shadow: none;
     transform: scale(1.3);
 }
-div.botones .boton:active{
-    background-color: aqua;
-}
+
+
 img.muñeco{
     display: none;
 }
@@ -129,17 +132,21 @@ div.respuesta{
     padding: 10px;
     background-color: white;
     border-radius: var(--bordes);
+    font-family: var(--fuente-titulos);
 }
 div.respuesta h2.textarea{
+    padding: 10px;
     display: flex;
+    text-align: center;
     flex-direction: column;
     justify-content:center;
-    align-items: stretch;
+    align-items: center;
     padding: 0 ;
     margin: 0 ;
     height: 900px;
     font-size: var(--subtitulo);
     text-align: center;
+    word-break: break-all;
     align-content: center;
     
     
@@ -240,7 +247,7 @@ footer p{
     div.respuesta{
         display: flex;
         flex-flow: column nowrap;
-        justify-content: start;
+        justify-content: space-between;
         border-radius: var(--bordes);
         background: white;
         width: 40%;
@@ -250,7 +257,7 @@ footer p{
        font-size: var(--subtitulo);
        height: 10%;
        border: none;
-       align-self: flex-start;
+       align-self: center;
     
     }
     div.botones{

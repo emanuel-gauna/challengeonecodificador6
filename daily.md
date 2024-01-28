@@ -20,3 +20,9 @@
 
 - terminando de darle los estilos de la vista para escritorio
 - empezando a hacer los eventos de cifrado y descifrado
+
+## Sábado 27 de Enero 
+
+- creando las funciones de encriptar, desencriptar, copiar
+- actualizando la daily 
+- acomodando los mensajes largos dentro de su contenedor

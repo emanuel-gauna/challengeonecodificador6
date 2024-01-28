@@ -5,9 +5,12 @@ let qs = (selector) =>{
 let encriptar = qs("#encriptar");
 let desencriptar = qs("#desencriptar");
 let texto = qs("#texto");
+let parrafo = qs(".resultado");
 let resultado = qs("#resultado");
-let copiar = qs("#copiar");
+let btnCopiar = qs("#copiar");
 let muñeco = qs(".muñeco");
+
+let valorDelResultado = resultado.innerHTML; 
 
 console.log(texto.value)
 console.log(resultado.value)
@@ -24,16 +27,58 @@ let encriptado = texto.value.replace(/e/gi, "enter")
     .replace(/a/gi, "ai")
     .replace(/o/gi, "ober")
     .replace(/u/gi, "ufat");
-    return encriptado;
+    return resultado.innerHTML = encriptado;
 }
 
+
 function btnEncriptar() {
-    if(texto.value === ""){
-        return resultado.value = "Ningún mensaje fue encontrado. ";        
+    if(texto.value == ""){
+        resultado.style.color = "red"
+        resultado.innerHTML= "Ningún mensaje fue encontrado. ";        
      }else{
-        resultado.value = texto.value;
-        muñeco.style.display = "none";
+         muñeco.style.display = "none";
+         parrafo.style.display = "none";
+         btnCopiar.removeAttribute("disabled");
+         codificar() = texto.value ;
+     }
+    }
+
+function btnDesencriptar(){
+    if(texto.value == ""){
+        resultado.style.color = "red"
+        resultado.innerHTML= "Ningún mensaje fue encontrado. ";        
+     }else{
+         muñeco.style.display = "none";
+         parrafo.style.display = "none";
+         btnCopiar.removeAttribute("disabled");
+         resultado.innerHTML = texto.value ;
      }
 }
+/* evento del boton */
+    btnCopiar.addEventListener('click', () =>{
+        /* crear un rango */
+    let rango = document.createRange();
+    /* asignar el cuerpo al rango*/
+    rango.selectNodeContents(resultado);
+    /*crear una ventana de la selección*/
+    const seleccion = window.getSelection();
+    /*colocar el rango en la selección*/
+    seleccion.removeAllRanges(rango);
+    /*  */
+    seleccion.addRange(rango);
+    /* copiar los datos */
+    document.execCommand('copy');
+    /* remover el rango creado */
+    seleccion.removeAllRanges();
+    alert("Mensaje copiado al portapapeles.");
+    resultado.innerHTML = '';
+    texto.value = "";
+});
+
+     
+
+   
+      
+     
 
 
