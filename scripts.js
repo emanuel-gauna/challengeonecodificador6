@@ -30,7 +30,7 @@ let encriptado = texto.value.replace(/e/gi, "enter")
     return resultado.innerHTML = encriptado;
 }
 function decodificar(){
-    let descifrado = valorDelResultado.replace("enter", "e")
+    let descifrado = texto.value.replace("enter", "e")
         .replace("imes", "i")
         .replace("ai", "a") 
         .replace("ober", "o")
