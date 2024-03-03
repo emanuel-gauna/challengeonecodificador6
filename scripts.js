@@ -29,6 +29,15 @@ let encriptado = texto.value.replace(/e/gi, "enter")
     .replace(/u/gi, "ufat");
     return resultado.innerHTML = encriptado;
 }
+function decodificar(){
+    let descifrado = valorDelResultado.replace("enter", "e")
+        .replace("imes", "i")
+        .replace("ai", "a") 
+        .replace("ober", "o")
+        .replace("ufat", "u");
+
+    return  resultado.innerHTML = descifrado;
+}
 
 
 function btnEncriptar() {
@@ -51,7 +60,7 @@ function btnDesencriptar(){
          muñeco.style.display = "none";
          parrafo.style.display = "none";
          btnCopiar.removeAttribute("disabled");
-         resultado.innerHTML = texto.value ;
+         decodificar() = texto.value ;
      }
 }
 /* evento del boton */
