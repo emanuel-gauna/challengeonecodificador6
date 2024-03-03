@@ -30,11 +30,11 @@ let encriptado = texto.value.replace(/e/gi, "enter")
     return resultado.innerHTML = encriptado;
 }
 function decodificar(){
-    let descifrado = texto.value.replace("enter", "e")
-        .replace("imes", "i")
-        .replace("ai", "a") 
-        .replace("ober", "o")
-        .replace("ufat", "u");
+    let descifrado = texto.value.replace(/enter/gi, "e")
+        .replace(/imes/gi, "i")
+        .replace(/ai/gi, "a") 
+        .replace(/ober/gi, "o")
+        .replace(/ufat/gi, "u");
 
     return  resultado.innerHTML = descifrado;
 }
